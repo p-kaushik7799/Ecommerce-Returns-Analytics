@@ -1,0 +1,5 @@
+discount_category,total_orders,returned_orders,return_rate
+No Discount,17,4,23.52941176470588
+Low Discount,355,126,35.49295774647888
+Medium Discount,323,112,34.6749226006192
+High Discount,305,112,36.721311475409834

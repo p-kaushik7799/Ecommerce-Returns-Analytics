@@ -1,0 +1,9 @@
+Validation_Check,Passed
+No duplicate OrderIDs,True
+No missing values,True
+Quantity > 0,True
+Price > 0,True
+Discount between 0 and 1,True
+Delivery time >= 0,True
+Valid target values,True
+Total amount >= 0,True

@@ -1,0 +1,1001 @@
+orderid,orderdate,productcategory,quantity,priceperunit,paymentmethod,customerlocation,customersegment,discountapplied,deliverytimedays,isreturned,totalamount,order_month
+Ord100000,2023-06-26,Electronics,4,3968.22,Credit Card,Bangalore,New,0.18,4.0,0,13015.76,6
+Ord100001,2023-09-24,Books,3,1554.25,Net Banking,Chennai,New,0.2,5.0,1,3730.2,9
+Ord100002,2023-12-07,Books,4,2752.71,Cash On Delivery,Delhi,Vip,0.05,5.0,1,10460.3,12
+Ord100003,2023-10-09,Books,1,2765.735,Credit Card,Chennai,New,0.29,1.0,0,1963.67,10
+Ord100004,2023-03-04,Books,2,2765.735,Net Banking,Chennai,Regular,0.16,7.0,0,4646.43,3
+Ord100005,2023-08-05,Beauty,1,3688.83,Upi,Mumbai,Regular,0.04,1.0,0,3541.28,8
+Ord100006,2023-12-08,Fashion,4,4420.15,Cash On Delivery,Delhi,New,0.27,8.0,0,12906.84,12
+Ord100007,2023-11-11,Home & Kitchen,4,695.33,Net Banking,Mumbai,New,0.02,3.0,0,2725.69,11
+Ord100008,2023-10-10,Electronics,1,3209.73,Cash On Delivery,Hyderabad,New,0.27,6.0,1,2343.1,10
+Ord100009,2023-06-26,Fashion,2,2952.5,Cash On Delivery,Pune,Regular,0.3,7.0,1,4133.5,6
+Ord100010,2023-04-08,Electronics,3,680.23,Net Banking,Delhi,Regular,0.21,1.0,0,1612.15,4
+Ord100011,2023-04-15,Beauty,4,1138.28,Cash On Delivery,Pune,New,0.23,6.0,0,3505.9,4
+Ord100012,2023-04-09,Beauty,4,2343.1499999999996,Upi,Delhi,Regular,0.1,7.0,1,8435.34,4
+Ord100013,2023-11-07,Toys,3,917.96,Cash On Delivery,Mumbai,New,0.28,6.0,0,1982.79,11
+Ord100014,2023-01-06,Books,1,1294.27,Net Banking,Hyderabad,New,0.16,4.0,0,1087.19,1
+Ord100015,2023-07-16,Electronics,1,1411.24,Cash On Delivery,Pune,Vip,0.22,1.0,0,1100.77,7
+Ord100016,2023-12-17,Electronics,1,2657.57,Net Banking,Chennai,Vip,0.28,9.0,0,1913.45,12
+Ord100017,2023-05-13,Home & Kitchen,3,3772.01,Upi,Pune,Regular,0.29,4.0,1,8034.38,5
+Ord100018,2023-12-24,Books,2,2902.37,Upi,Bangalore,Regular,0.25,7.0,1,4353.56,12
+Ord100019,2023-09-16,Beauty,4,4932.61,Net Banking,Chennai,Regular,0.09,7.0,1,17954.7,9
+Ord100020,2023-01-23,Electronics,1,2132.21,Cash On Delivery,Delhi,New,0.29,2.0,1,1513.87,1
+Ord100021,2023-02-22,Fashion,2,3793.94,Upi,Chennai,Vip,0.19,1.0,1,6146.18,2
+Ord100022,2023-06-14,Home & Kitchen,4,4370.2,Upi,Pune,New,0.28,8.0,0,12586.18,6
+Ord100023,2023-07-21,Electronics,3,3426.99,Upi,Mumbai,New,0.2,8.0,0,8224.78,7
+Ord100024,2023-03-24,Beauty,4,2118.14,Cash On Delivery,Chennai,Regular,0.09,7.0,0,7710.03,3
+Ord100025,2023-05-25,Toys,2,3792.61,Upi,Bangalore,Vip,0.11,8.0,0,6750.85,5
+Ord100026,2023-03-26,Toys,4,2328.87,Credit Card,Hyderabad,New,0.17,3.0,0,7731.85,3
+Ord100027,2023-03-19,Beauty,2,2343.1499999999996,Net Banking,Bangalore,Vip,0.24,2.0,0,3561.59,3
+Ord100028,2023-01-01,Books,2,2778.76,Upi,Delhi,Regular,0.1,7.0,0,5001.77,1
+Ord100029,2023-02-20,Home & Kitchen,1,2919.51,Credit Card,Bangalore,Regular,0.17,8.0,1,2423.19,2
+Ord100030,2023-06-22,Toys,3,208.49,Net Banking,Mumbai,New,0.1,1.0,1,562.92,6
+Ord100031,2023-07-24,Electronics,1,4731.06,Net Banking,Chennai,Regular,0.24,9.0,0,3595.61,7
+Ord100032,2023-09-17,Toys,4,3513.47,Net Banking,Hyderabad,Regular,0.14,4.0,0,12086.34,9
+Ord100033,2023-10-15,Books,2,2528.95,Credit Card,Hyderabad,Vip,0.02,4.0,0,4956.74,10
+Ord100034,2023-02-03,Beauty,4,4672.32,Net Banking,Bangalore,Regular,0.05,3.0,0,17754.82,2
+Ord100035,2023-12-14,Electronics,2,2251.57,Credit Card,Pune,New,0.02,6.0,1,4413.08,12
+Ord100036,2023-04-05,Electronics,3,4904.13,Cash On Delivery,Chennai,Regular,0.15,1.0,1,12505.53,4
+Ord100037,2023-03-13,Toys,3,2610.2,Upi,Pune,Regular,0.03,6.0,0,7595.68,3
+Ord100038,2023-02-08,Home & Kitchen,3,660.0,Net Banking,Chennai,Regular,0.03,2.0,0,1920.6,2
+Ord100039,2023-06-03,Fashion,2,3847.52,Cash On Delivery,Pune,New,0.28,9.0,0,5540.43,6
+Ord100040,2023-09-07,Beauty,2,3426.6,Net Banking,Pune,Vip,0.26,2.0,0,5071.37,9
+Ord100041,2023-06-11,Electronics,3,3887.63,Cash On Delivery,Delhi,Vip,0.14,7.0,0,10030.09,6
+Ord100042,2023-04-28,Toys,1,4762.07,Upi,Delhi,Vip,0.3,1.0,0,3333.45,4
+Ord100043,2023-09-16,Beauty,3,3904.8,Cash On Delivery,Mumbai,Regular,0.0,7.0,0,11714.4,9
+Ord100044,2023-11-02,Fashion,2,3095.55,Upi,Delhi,Regular,0.18,5.0,0,5076.7,11
+Ord100045,2023-09-25,Electronics,4,4300.81,Cash On Delivery,Mumbai,Regular,0.18,8.0,0,14106.66,9
+Ord100046,2023-02-23,Electronics,3,3398.91,Net Banking,Chennai,New,0.14,4.0,0,8769.19,2
+Ord100047,2023-08-24,Toys,2,2099.78,Credit Card,Pune,New,0.12,7.0,0,3695.61,8
+Ord100048,2023-08-10,Electronics,1,4439.54,Net Banking,Mumbai,Regular,0.14,6.0,0,3818.0,8
+Ord100049,2023-09-08,Books,2,1187.31,Upi,Mumbai,New,0.12,5.0,0,2089.67,9
+Ord100050,2023-11-09,Fashion,1,3601.74,Net Banking,Hyderabad,Regular,0.22,4.0,1,2809.36,11
+Ord100051,2023-04-22,Toys,2,4419.66,Cash On Delivery,Chennai,New,0.04,7.0,1,8485.75,4
+Ord100052,2023-09-12,Beauty,3,3683.45,Net Banking,Delhi,Vip,0.06,5.0,0,10387.33,9
+Ord100053,2023-10-30,Home & Kitchen,1,3516.65,Credit Card,Chennai,New,0.05,5.0,0,3340.82,10
+Ord100054,2023-07-26,Books,3,3787.93,Net Banking,Pune,New,0.08,1.0,1,10454.69,7
+Ord100055,2023-08-17,Home & Kitchen,3,2378.77,Credit Card,Mumbai,Regular,0.16,2.0,0,5994.5,8
+Ord100056,2023-12-07,Home & Kitchen,1,4383.44,Credit Card,Hyderabad,New,0.03,5.0,0,4251.94,12
+Ord100057,2023-03-07,Fashion,1,1096.84,Net Banking,Mumbai,New,0.26,3.0,1,811.66,3
+Ord100058,2023-03-16,Home & Kitchen,4,724.19,Credit Card,Bangalore,New,0.09,2.0,0,2636.05,3
+Ord100059,2023-04-13,Electronics,4,1498.99,Net Banking,Bangalore,New,0.05,4.0,1,5696.16,4
+Ord100060,2023-07-11,Home & Kitchen,4,2704.73,Cash On Delivery,Delhi,Vip,0.2,4.0,1,8655.14,7
+Ord100061,2023-09-09,Books,3,2601.75,Cash On Delivery,Bangalore,Vip,0.01,4.0,0,7727.2,9
+Ord100062,2023-08-14,Toys,3,4120.93,Upi,Chennai,Regular,0.19,4.0,0,10013.86,8
+Ord100063,2023-10-21,Electronics,4,2657.57,Cash On Delivery,Mumbai,Regular,0.21,3.0,1,8397.92,10
+Ord100064,2023-11-02,Fashion,3,2473.29,Cash On Delivery,Chennai,Regular,0.06,7.0,0,6974.68,11
+Ord100065,2023-04-08,Electronics,3,165.5,Net Banking,Hyderabad,Regular,0.01,9.0,0,491.54,4
+Ord100066,2023-12-04,Beauty,1,2107.72,Net Banking,Pune,New,0.11,5.0,0,1875.87,12
+Ord100067,2023-10-13,Toys,1,3274.09,Credit Card,Chennai,Vip,0.03,4.0,1,3175.87,10
+Ord100068,2023-12-01,Books,3,175.99,Cash On Delivery,Mumbai,Regular,0.03,2.0,1,512.13,12
+Ord100069,2023-12-13,Electronics,4,1476.32,Upi,Mumbai,Vip,0.08,4.0,0,5432.86,12
+Ord100070,2023-11-04,Home & Kitchen,3,1118.99,Upi,Bangalore,New,0.09,5.0,0,3054.84,11
+Ord100071,2023-09-06,Home & Kitchen,4,2733.5,Cash On Delivery,Chennai,New,0.16,7.0,0,9184.56,9
+Ord100072,2023-06-15,Toys,2,2448.37,Cash On Delivery,Chennai,New,0.2,9.0,0,3917.39,6
+Ord100073,2023-12-01,Fashion,4,990.44,Upi,Chennai,New,0.18,7.0,1,3248.64,12
+Ord100074,2023-01-30,Fashion,1,3741.1,Net Banking,Bangalore,Vip,0.04,5.0,0,3591.46,1
+Ord100075,2023-09-04,Beauty,3,2343.1499999999996,Credit Card,Delhi,New,0.05,6.0,0,6677.98,9
+Ord100076,2023-04-16,Home & Kitchen,3,2773.37,Cash On Delivery,Delhi,Regular,0.26,3.0,1,6156.88,4
+Ord100077,2023-02-20,Home & Kitchen,1,4910.37,Cash On Delivery,Pune,Regular,0.17,5.0,0,4075.61,2
+Ord100078,2023-03-22,Home & Kitchen,2,2307.35,Net Banking,Delhi,New,0.26,8.0,1,3414.88,3
+Ord100079,2023-05-13,Fashion,2,2615.5,Cash On Delivery,Mumbai,New,0.11,1.0,0,4655.59,5
+Ord100080,2023-10-12,Books,2,4947.17,Upi,Pune,Vip,0.18,1.0,0,8113.36,10
+Ord100081,2023-05-18,Fashion,1,1234.59,Upi,Chennai,Vip,0.16,7.0,0,1037.06,5
+Ord100082,2023-07-03,Books,2,4718.48,Credit Card,Mumbai,Regular,0.1,5.0,1,8493.26,7
+Ord100083,2023-11-26,Electronics,1,309.9,Cash On Delivery,Mumbai,Regular,0.14,5.0,0,266.51,11
+Ord100084,2023-09-30,Toys,4,2287.3,Net Banking,Chennai,Regular,0.15,1.0,1,7776.82,9
+Ord100085,2023-12-06,Books,4,443.02,Credit Card,Hyderabad,New,0.06,9.0,0,1665.76,12
+Ord100086,2023-03-10,Books,1,3673.25,Credit Card,Chennai,Vip,0.09,1.0,0,3342.66,3
+Ord100087,2023-02-03,Fashion,3,3081.2,Upi,Bangalore,Regular,0.24,5.0,1,7025.14,2
+Ord100088,2023-09-19,Beauty,4,3562.51,Net Banking,Mumbai,Vip,0.27,9.0,1,10402.53,9
+Ord100089,2023-02-22,Toys,2,1934.95,Cash On Delivery,Bangalore,New,0.11,4.0,0,3444.21,2
+Ord100090,2023-07-24,Books,1,1910.46,Credit Card,Pune,Regular,0.09,8.0,0,1738.52,7
+Ord100091,2023-05-06,Books,2,322.06,Cash On Delivery,Hyderabad,New,0.06,6.0,0,605.47,5
+Ord100092,2023-08-23,Fashion,2,1814.73,Cash On Delivery,Pune,New,0.2,3.0,0,2903.57,8
+Ord100093,2023-02-12,Electronics,3,4653.51,Net Banking,Delhi,New,0.1,4.0,0,12564.48,2
+Ord100094,2023-08-28,Toys,3,1958.21,Credit Card,Bangalore,New,0.3,2.0,1,4112.24,8
+Ord100095,2023-04-21,Electronics,3,4173.7,Cash On Delivery,Chennai,New,0.1,1.0,0,11268.99,4
+Ord100096,2023-09-06,Books,2,4227.39,Upi,Bangalore,New,0.12,8.0,0,7440.21,9
+Ord100097,2023-05-31,Toys,3,2328.87,Cash On Delivery,Bangalore,New,0.18,1.0,1,5729.02,5
+Ord100098,2023-07-02,Electronics,2,3196.74,Upi,Mumbai,New,0.24,1.0,1,4859.04,7
+Ord100099,2023-12-02,Toys,1,567.32,Net Banking,Bangalore,Regular,0.14,4.0,0,487.9,12
+Ord100100,2023-04-05,Toys,2,608.03,Upi,Hyderabad,Regular,0.13,6.0,0,1057.97,4
+Ord100101,2023-01-08,Toys,1,338.42,Net Banking,Bangalore,Vip,0.3,9.0,0,236.89,1
+Ord100102,2023-12-26,Electronics,2,2946.97,Net Banking,Bangalore,Regular,0.0,1.0,0,5893.94,12
+Ord100103,2023-07-03,Home & Kitchen,2,2187.75,Cash On Delivery,Chennai,New,0.27,5.0,1,3194.12,7
+Ord100104,2023-10-08,Fashion,2,2785.36,Credit Card,Bangalore,Vip,0.04,5.0,1,5347.89,10
+Ord100105,2023-07-14,Beauty,2,2653.26,Credit Card,Mumbai,Regular,0.24,8.0,0,4032.96,7
+Ord100106,2023-12-18,Home & Kitchen,2,2733.5,Cash On Delivery,Chennai,Regular,0.19,7.0,1,4428.27,12
+Ord100107,2023-07-14,Toys,2,3419.62,Credit Card,Pune,Vip,0.1,4.0,0,6155.32,7
+Ord100108,2023-06-04,Electronics,2,3816.66,Net Banking,Chennai,Regular,0.26,4.0,0,5648.66,6
+Ord100109,2023-04-03,Electronics,2,2657.57,Cash On Delivery,Mumbai,New,0.0,6.0,1,5315.14,4
+Ord100110,2023-06-09,Toys,2,2328.87,Net Banking,Hyderabad,New,0.07,6.0,0,4331.7,6
+Ord100111,2023-03-02,Beauty,1,3594.86,Net Banking,Bangalore,New,0.17,9.0,0,2983.73,3
+Ord100112,2023-05-02,Books,3,1994.44,Credit Card,Delhi,Vip,0.11,5.0,0,5325.15,5
+Ord100113,2023-02-20,Books,2,3346.17,Credit Card,Pune,Regular,0.18,8.0,1,5487.72,2
+Ord100114,2023-10-04,Electronics,3,1800.12,Net Banking,Delhi,Regular,0.01,5.0,0,5346.36,10
+Ord100115,2023-01-05,Electronics,2,2014.7,Credit Card,Delhi,Vip,0.03,2.0,0,3908.52,1
+Ord100116,2023-04-02,Electronics,2,2657.57,Cash On Delivery,Delhi,New,0.04,6.0,1,5102.53,4
+Ord100117,2023-06-19,Home & Kitchen,1,1365.33,Net Banking,Bangalore,Vip,0.06,9.0,0,1283.41,6
+Ord100118,2023-11-13,Home & Kitchen,4,3066.52,Upi,Bangalore,Vip,0.14,3.0,1,10548.83,11
+Ord100119,2023-01-22,Toys,3,2222.5,Upi,Mumbai,New,0.23,1.0,0,5133.98,1
+Ord100120,2023-11-22,Home & Kitchen,1,3894.08,Upi,Pune,Vip,0.27,1.0,1,2842.68,11
+Ord100121,2023-01-01,Books,3,4277.67,Cash On Delivery,Pune,Regular,0.25,3.0,1,9624.76,1
+Ord100122,2023-05-13,Home & Kitchen,4,2754.07,Net Banking,Chennai,Regular,0.06,5.0,1,10355.3,5
+Ord100123,2023-08-21,Electronics,1,3815.51,Upi,Chennai,Vip,0.13,3.0,0,3319.49,8
+Ord100124,2023-01-12,Beauty,1,1603.83,Net Banking,Chennai,Vip,0.06,9.0,0,1507.6,1
+Ord100125,2023-12-12,Electronics,4,2133.36,Cash On Delivery,Chennai,Vip,0.08,8.0,0,7850.76,12
+Ord100126,2023-02-15,Home & Kitchen,3,3592.61,Net Banking,Bangalore,Vip,0.15,3.0,0,9161.16,2
+Ord100127,2023-02-03,Toys,1,1992.44,Net Banking,Pune,New,0.02,9.0,0,1952.59,2
+Ord100128,2023-03-19,Fashion,2,2983.67,Upi,Bangalore,New,0.07,6.0,0,5549.63,3
+Ord100129,2023-08-06,Beauty,3,1008.33,Cash On Delivery,Hyderabad,Regular,0.28,7.0,1,2177.99,8
+Ord100130,2023-10-28,Books,3,3038.88,Cash On Delivery,Chennai,Regular,0.14,4.0,0,7840.31,10
+Ord100131,2023-03-14,Home & Kitchen,4,4321.42,Net Banking,Bangalore,Vip,0.13,4.0,1,15038.54,3
+Ord100132,2023-10-09,Electronics,4,4356.33,Upi,Bangalore,Vip,0.0,2.0,0,17425.32,10
+Ord100133,2023-09-06,Home & Kitchen,2,3649.29,Net Banking,Delhi,Vip,0.07,5.0,0,6787.68,9
+Ord100134,2023-02-16,Books,1,3754.19,Net Banking,Hyderabad,Regular,0.26,8.0,1,2778.1,2
+Ord100135,2023-05-01,Beauty,4,2833.84,Cash On Delivery,Chennai,Regular,0.05,7.0,0,10768.59,5
+Ord100136,2023-08-02,Fashion,4,2964.87,Net Banking,Chennai,New,0.12,7.0,1,10436.34,8
+Ord100137,2023-08-27,Fashion,3,754.89,Net Banking,Pune,New,0.0,6.0,0,2264.67,8
+Ord100138,2023-02-25,Beauty,4,2274.91,Credit Card,Hyderabad,Vip,0.14,3.0,0,7825.69,2
+Ord100139,2023-12-16,Beauty,2,2308.8,Cash On Delivery,Mumbai,New,0.01,5.0,0,4571.42,12
+Ord100140,2023-04-17,Books,4,4796.64,Upi,Hyderabad,Regular,0.25,1.0,0,14389.92,4
+Ord100141,2023-11-15,Fashion,4,2800.8050000000003,Net Banking,Bangalore,Vip,0.25,7.0,1,8402.42,11
+Ord100142,2023-02-17,Electronics,3,2791.78,Cash On Delivery,Chennai,Regular,0.24,9.0,1,6365.26,2
+Ord100143,2023-03-02,Home & Kitchen,2,2712.93,Net Banking,Hyderabad,Regular,0.09,1.0,0,4937.53,3
+Ord100144,2023-12-03,Electronics,2,3220.13,Upi,Pune,Vip,0.25,2.0,0,4830.2,12
+Ord100145,2023-01-26,Fashion,1,3766.34,Upi,Delhi,Vip,0.16,3.0,1,3163.73,1
+Ord100146,2023-10-19,Toys,4,1202.71,Upi,Hyderabad,New,0.11,3.0,1,4281.65,10
+Ord100147,2023-09-14,Toys,3,2690.75,Credit Card,Hyderabad,New,0.19,8.0,0,6538.52,9
+Ord100148,2023-01-08,Books,1,4147.0,Net Banking,Chennai,Vip,0.0,7.0,1,4147.0,1
+Ord100149,2023-04-23,Fashion,1,2369.26,Net Banking,Pune,Vip,0.04,6.0,0,2274.49,4
+Ord100150,2023-12-21,Fashion,2,1464.44,Credit Card,Mumbai,Regular,0.22,4.0,0,2284.53,12
+Ord100151,2023-09-10,Books,3,3308.07,Credit Card,Mumbai,Vip,0.07,9.0,1,9229.52,9
+Ord100152,2023-06-29,Toys,3,4136.46,Credit Card,Chennai,New,0.18,1.0,0,10175.69,6
+Ord100153,2023-07-26,Home & Kitchen,3,409.39,Net Banking,Delhi,Regular,0.12,2.0,0,1080.79,7
+Ord100154,2023-10-30,Home & Kitchen,2,3906.27,Upi,Delhi,New,0.26,4.0,0,5781.28,10
+Ord100155,2023-05-07,Toys,2,4126.07,Net Banking,Pune,Vip,0.29,3.0,0,5859.02,5
+Ord100156,2023-02-25,Home & Kitchen,2,2361.46,Net Banking,Pune,Vip,0.27,1.0,0,3447.73,2
+Ord100157,2023-08-02,Electronics,2,4918.2,Credit Card,Bangalore,New,0.08,5.0,0,9049.49,8
+Ord100158,2023-01-14,Beauty,2,3954.87,Upi,Delhi,Vip,0.06,7.0,0,7435.16,1
+Ord100159,2023-01-28,Books,4,3890.95,Cash On Delivery,Mumbai,Vip,0.14,2.0,0,13384.87,1
+Ord100160,2023-03-19,Electronics,4,3764.41,Credit Card,Hyderabad,New,0.0,5.0,0,15057.64,3
+Ord100161,2023-08-04,Beauty,2,837.98,Upi,Bangalore,New,0.01,6.0,1,1659.2,8
+Ord100162,2023-12-31,Books,1,1164.43,Credit Card,Hyderabad,New,0.17,7.0,0,966.48,12
+Ord100163,2023-06-03,Home & Kitchen,3,2373.55,Cash On Delivery,Mumbai,New,0.16,1.0,0,5981.35,6
+Ord100164,2023-01-14,Toys,1,1393.62,Cash On Delivery,Pune,Regular,0.3,7.0,0,975.53,1
+Ord100165,2023-07-06,Books,2,2134.68,Credit Card,Mumbai,New,0.06,4.0,1,4013.2,7
+Ord100166,2023-11-08,Toys,1,4453.47,Net Banking,Bangalore,Regular,0.08,8.0,1,4097.19,11
+Ord100167,2023-01-07,Fashion,3,2800.8050000000003,Upi,Chennai,Regular,0.03,4.0,1,8150.34,1
+Ord100168,2023-01-03,Home & Kitchen,3,3187.2,Credit Card,Delhi,New,0.28,5.0,0,6884.35,1
+Ord100169,2023-04-21,Books,1,4304.79,Cash On Delivery,Bangalore,New,0.23,9.0,0,3314.69,4
+Ord100170,2023-08-26,Home & Kitchen,3,3940.48,Net Banking,Bangalore,Vip,0.25,5.0,1,8866.08,8
+Ord100171,2023-12-29,Fashion,2,2202.03,Net Banking,Chennai,Regular,0.27,4.0,0,3214.96,12
+Ord100172,2023-08-27,Books,2,1085.22,Cash On Delivery,Bangalore,Regular,0.16,5.0,0,1823.17,8
+Ord100173,2023-10-01,Beauty,3,2619.59,Net Banking,Hyderabad,Vip,0.14,9.0,0,6758.54,10
+Ord100174,2023-10-21,Electronics,4,3707.52,Upi,Mumbai,Vip,0.1,4.0,1,13347.07,10
+Ord100175,2023-08-15,Fashion,1,2238.46,Net Banking,Chennai,New,0.18,3.0,0,1835.54,8
+Ord100176,2023-01-15,Toys,2,3367.18,Upi,Pune,New,0.14,8.0,1,5791.55,1
+Ord100177,2023-07-11,Electronics,4,562.2,Cash On Delivery,Delhi,Regular,0.14,5.0,1,1933.97,7
+Ord100178,2023-04-29,Home & Kitchen,2,3765.22,Net Banking,Bangalore,Vip,0.28,2.0,0,5421.92,4
+Ord100179,2023-01-28,Fashion,4,4082.3,Credit Card,Mumbai,New,0.3,9.0,1,11430.44,1
+Ord100180,2023-07-21,Electronics,4,3563.51,Cash On Delivery,Delhi,Vip,0.24,3.0,0,10833.07,7
+Ord100181,2023-02-08,Electronics,3,4839.59,Upi,Delhi,Vip,0.23,2.0,1,11179.45,2
+Ord100182,2023-09-30,Fashion,2,4150.6,Upi,Mumbai,New,0.2,5.0,1,6640.96,9
+Ord100183,2023-08-19,Home & Kitchen,1,4525.16,Net Banking,Chennai,Regular,0.05,8.0,0,4298.9,8
+Ord100184,2023-03-27,Electronics,3,4674.5,Upi,Hyderabad,Regular,0.02,3.0,0,13743.03,3
+Ord100185,2023-05-06,Beauty,3,4026.61,Credit Card,Bangalore,Vip,0.21,7.0,0,9543.07,5
+Ord100186,2023-10-27,Toys,1,3403.87,Net Banking,Delhi,Vip,0.22,1.0,0,2655.02,10
+Ord100187,2023-01-25,Home & Kitchen,3,128.02,Credit Card,Pune,Regular,0.01,1.0,0,380.22,1
+Ord100188,2023-05-25,Beauty,4,2382.55,Upi,Bangalore,New,0.28,9.0,0,6861.74,5
+Ord100189,2023-01-13,Books,4,2898.7,Net Banking,Hyderabad,New,0.03,8.0,0,11246.96,1
+Ord100190,2023-07-31,Home & Kitchen,2,1589.75,Credit Card,Hyderabad,New,0.09,3.0,0,2893.34,7
+Ord100191,2023-01-25,Toys,2,1658.71,Net Banking,Delhi,New,0.2,6.0,0,2653.94,1
+Ord100192,2023-03-09,Beauty,1,4809.68,Net Banking,Hyderabad,New,0.05,3.0,0,4569.2,3
+Ord100193,2023-03-08,Beauty,2,4469.38,Upi,Mumbai,New,0.02,4.0,0,8759.98,3
+Ord100194,2023-08-21,Books,4,4260.98,Net Banking,Hyderabad,New,0.1,1.0,0,15339.53,8
+Ord100195,2023-04-19,Home & Kitchen,1,2089.46,Cash On Delivery,Hyderabad,Vip,0.23,5.0,0,1608.88,4
+Ord100196,2023-05-26,Books,1,167.12,Upi,Chennai,Vip,0.12,1.0,0,147.07,5
+Ord100197,2023-04-21,Home & Kitchen,2,493.09,Upi,Hyderabad,New,0.2,1.0,1,788.94,4
+Ord100198,2023-08-16,Toys,4,1629.76,Credit Card,Delhi,Vip,0.17,7.0,0,5410.8,8
+Ord100199,2023-04-21,Toys,1,177.14,Net Banking,Hyderabad,Vip,0.01,5.0,1,175.37,4
+Ord100200,2023-02-03,Electronics,4,184.03,Credit Card,Mumbai,Vip,0.3,4.0,1,515.28,2
+Ord100201,2023-04-21,Toys,4,4591.36,Cash On Delivery,Chennai,New,0.01,2.0,1,18181.79,4
+Ord100202,2023-09-21,Fashion,4,3560.18,Credit Card,Pune,New,0.29,7.0,0,10110.91,9
+Ord100203,2023-08-24,Electronics,2,1613.88,Cash On Delivery,Mumbai,New,0.16,1.0,1,2711.32,8
+Ord100204,2023-03-24,Fashion,3,749.96,Upi,Delhi,Regular,0.29,2.0,0,1597.41,3
+Ord100205,2023-02-11,Toys,3,2607.02,Cash On Delivery,Hyderabad,New,0.03,8.0,0,7586.43,2
+Ord100206,2023-04-11,Home & Kitchen,1,2733.5,Cash On Delivery,Mumbai,Vip,0.15,6.0,0,2323.48,4
+Ord100207,2023-01-06,Electronics,4,4698.23,Upi,Bangalore,Vip,0.05,2.0,0,17853.27,1
+Ord100208,2023-06-29,Electronics,2,2132.59,Cash On Delivery,Bangalore,New,0.02,7.0,0,4179.88,6
+Ord100209,2023-10-09,Electronics,4,2071.44,Net Banking,Chennai,New,0.19,4.0,1,6711.47,10
+Ord100210,2023-11-16,Beauty,4,2013.91,Credit Card,Delhi,Regular,0.06,2.0,1,7572.3,11
+Ord100211,2023-08-14,Toys,2,439.71,Credit Card,Hyderabad,Vip,0.18,6.0,0,721.12,8
+Ord100212,2023-11-11,Toys,3,3227.78,Cash On Delivery,Delhi,Regular,0.03,9.0,1,9392.84,11
+Ord100213,2023-12-31,Toys,4,3691.72,Cash On Delivery,Hyderabad,Vip,0.1,9.0,1,13290.19,12
+Ord100214,2023-08-17,Home & Kitchen,4,3413.01,Credit Card,Chennai,Vip,0.23,8.0,0,10512.07,8
+Ord100215,2023-10-16,Beauty,3,778.33,Cash On Delivery,Bangalore,New,0.13,3.0,0,2031.44,10
+Ord100216,2023-05-30,Electronics,2,2936.32,Upi,Delhi,New,0.19,3.0,0,4756.84,5
+Ord100217,2023-10-04,Home & Kitchen,1,2890.47,Credit Card,Chennai,Regular,0.19,2.0,1,2341.28,10
+Ord100218,2023-07-17,Fashion,3,4355.21,Cash On Delivery,Delhi,New,0.25,5.0,0,9799.22,7
+Ord100219,2023-03-11,Beauty,2,1957.73,Net Banking,Delhi,Regular,0.1,4.0,1,3523.91,3
+Ord100220,2023-04-22,Toys,1,1920.28,Upi,Bangalore,Vip,0.21,7.0,0,1517.02,4
+Ord100221,2023-01-04,Fashion,3,3130.78,Cash On Delivery,Delhi,Regular,0.29,4.0,0,6668.56,1
+Ord100222,2023-12-16,Beauty,4,3202.06,Cash On Delivery,Chennai,Vip,0.22,5.0,1,9990.43,12
+Ord100223,2023-11-27,Fashion,1,2399.5,Credit Card,Delhi,Regular,0.15,2.0,1,2039.58,11
+Ord100224,2023-11-14,Beauty,1,2270.99,Upi,Mumbai,Regular,0.19,6.0,0,1839.5,11
+Ord100225,2023-12-16,Fashion,2,2521.32,Net Banking,Pune,New,0.22,7.0,0,3933.26,12
+Ord100226,2023-04-05,Fashion,4,4319.12,Net Banking,Pune,New,0.18,4.0,0,14166.71,4
+Ord100227,2023-06-01,Beauty,1,2359.72,Upi,Hyderabad,Regular,0.01,6.0,1,2336.12,6
+Ord100228,2023-11-07,Electronics,2,4705.67,Credit Card,Chennai,New,0.06,7.0,0,8846.66,11
+Ord100229,2023-05-17,Electronics,4,2569.62,Credit Card,Hyderabad,Regular,0.24,4.0,1,7811.64,5
+Ord100230,2023-09-04,Home & Kitchen,3,4751.08,Cash On Delivery,Hyderabad,Regular,0.08,8.0,0,13112.98,9
+Ord100231,2023-08-31,Books,3,4180.88,Cash On Delivery,Bangalore,Vip,0.22,9.0,1,9783.26,8
+Ord100232,2023-01-31,Electronics,2,1875.91,Net Banking,Delhi,New,0.11,1.0,1,3339.12,1
+Ord100233,2023-02-09,Books,3,4331.84,Cash On Delivery,Bangalore,Regular,0.16,7.0,1,10916.24,2
+Ord100234,2023-08-17,Electronics,1,639.31,Upi,Hyderabad,New,0.02,9.0,0,626.52,8
+Ord100235,2023-02-05,Books,4,4632.73,Upi,Delhi,Vip,0.05,5.0,0,17604.37,2
+Ord100236,2023-08-11,Books,1,3195.05,Cash On Delivery,Mumbai,Regular,0.29,2.0,0,2268.49,8
+Ord100237,2023-01-06,Fashion,1,366.51,Cash On Delivery,Delhi,New,0.27,6.0,0,267.55,1
+Ord100238,2023-11-18,Beauty,3,3256.86,Net Banking,Pune,Vip,0.2,7.0,1,7816.46,11
+Ord100239,2023-08-08,Home & Kitchen,1,4873.81,Cash On Delivery,Chennai,New,0.14,2.0,0,4191.48,8
+Ord100240,2023-03-16,Beauty,2,2343.1499999999996,Net Banking,Hyderabad,Regular,0.2,2.0,1,3749.04,3
+Ord100241,2023-01-04,Electronics,4,2817.97,Upi,Bangalore,Regular,0.19,1.0,1,9130.22,1
+Ord100242,2023-12-01,Electronics,4,3764.19,Upi,Hyderabad,Vip,0.17,4.0,0,12497.11,12
+Ord100243,2023-05-14,Toys,1,4070.27,Upi,Bangalore,Regular,0.02,7.0,0,3988.86,5
+Ord100244,2023-04-28,Toys,2,2127.75,Net Banking,Bangalore,New,0.19,9.0,1,3446.96,4
+Ord100245,2023-04-04,Beauty,3,1100.42,Credit Card,Delhi,Regular,0.23,3.0,1,2541.97,4
+Ord100246,2023-03-03,Home & Kitchen,3,307.48,Cash On Delivery,Hyderabad,New,0.3,7.0,0,645.71,3
+Ord100247,2023-07-13,Beauty,1,2940.66,Upi,Bangalore,Vip,0.0,7.0,1,2940.66,7
+Ord100248,2023-12-01,Toys,3,2319.26,Upi,Hyderabad,Regular,0.22,7.0,1,5427.07,12
+Ord100249,2023-07-22,Fashion,3,4748.85,Cash On Delivery,Bangalore,New,0.17,2.0,0,11824.64,7
+Ord100250,2023-01-26,Books,2,396.96,Cash On Delivery,Pune,New,0.13,6.0,1,690.71,1
+Ord100251,2023-06-22,Home & Kitchen,2,2733.5,Upi,Mumbai,Vip,0.04,2.0,1,5248.32,6
+Ord100252,2023-10-27,Electronics,1,222.33,Upi,Delhi,Vip,0.12,6.0,0,195.65,10
+Ord100253,2023-05-13,Toys,2,940.03,Credit Card,Mumbai,New,0.11,3.0,1,1673.25,5
+Ord100254,2023-11-22,Toys,1,2322.54,Cash On Delivery,Bangalore,Regular,0.09,2.0,0,2113.51,11
+Ord100255,2023-04-28,Toys,4,2328.87,Net Banking,Mumbai,Vip,0.22,6.0,0,7266.07,4
+Ord100256,2023-11-20,Beauty,1,3459.93,Cash On Delivery,Hyderabad,Regular,0.21,2.0,0,2733.34,11
+Ord100257,2023-10-02,Electronics,4,4560.04,Credit Card,Mumbai,New,0.18,5.0,0,14956.93,10
+Ord100258,2023-07-31,Fashion,1,3231.26,Cash On Delivery,Mumbai,Vip,0.28,2.0,0,2326.51,7
+Ord100259,2023-08-13,Electronics,3,4772.32,Net Banking,Hyderabad,New,0.1,3.0,0,12885.26,8
+Ord100260,2023-01-20,Electronics,2,4419.92,Upi,Chennai,Regular,0.07,3.0,0,8221.05,1
+Ord100261,2023-04-23,Home & Kitchen,4,2964.05,Cash On Delivery,Chennai,Regular,0.2,6.0,0,9484.96,4
+Ord100262,2023-05-20,Toys,1,4185.58,Net Banking,Mumbai,Vip,0.06,6.0,1,3934.45,5
+Ord100263,2023-02-16,Toys,2,3248.63,Upi,Pune,Regular,0.09,3.0,0,5912.51,2
+Ord100264,2023-01-01,Beauty,1,484.93,Credit Card,Hyderabad,New,0.07,3.0,1,450.98,1
+Ord100265,2023-03-31,Beauty,2,2343.1499999999996,Cash On Delivery,Hyderabad,Regular,0.02,1.0,0,4592.57,3
+Ord100266,2023-05-22,Beauty,2,565.05,Cash On Delivery,Chennai,Vip,0.25,7.0,0,847.58,5
+Ord100267,2023-11-16,Toys,1,2328.87,Upi,Mumbai,Regular,0.08,8.0,0,2142.56,11
+Ord100268,2023-02-07,Home & Kitchen,4,3542.94,Upi,Chennai,New,0.14,2.0,0,12187.71,2
+Ord100269,2023-10-20,Fashion,4,425.99,Cash On Delivery,Mumbai,New,0.01,4.0,1,1686.92,10
+Ord100270,2023-05-19,Home & Kitchen,3,1230.89,Upi,Hyderabad,Regular,0.21,7.0,0,2917.21,5
+Ord100271,2023-12-22,Books,2,4586.79,Cash On Delivery,Chennai,Regular,0.1,8.0,0,8256.22,12
+Ord100272,2023-11-29,Electronics,3,3119.94,Cash On Delivery,Mumbai,Regular,0.22,1.0,1,7300.66,11
+Ord100273,2023-09-16,Electronics,3,1306.8,Credit Card,Chennai,Regular,0.12,4.0,1,3449.95,9
+Ord100274,2023-06-10,Electronics,1,3484.33,Credit Card,Bangalore,New,0.06,6.0,0,3275.27,6
+Ord100275,2023-06-27,Home & Kitchen,1,3024.2,Upi,Chennai,Regular,0.15,5.0,0,2570.57,6
+Ord100276,2023-01-10,Fashion,1,2557.72,Net Banking,Chennai,Regular,0.04,5.0,0,2455.41,1
+Ord100277,2023-09-18,Fashion,2,4883.32,Cash On Delivery,Bangalore,Vip,0.13,9.0,1,8496.98,9
+Ord100278,2023-05-18,Books,1,3448.92,Upi,Chennai,New,0.1,3.0,0,3104.03,5
+Ord100279,2023-06-21,Beauty,1,1939.66,Upi,Delhi,Regular,0.27,5.0,1,1415.95,6
+Ord100280,2023-01-13,Beauty,2,4020.36,Net Banking,Chennai,Regular,0.02,8.0,0,7879.91,1
+Ord100281,2023-06-17,Books,2,4434.46,Cash On Delivery,Delhi,New,0.21,6.0,0,7006.45,6
+Ord100282,2023-05-10,Electronics,4,713.58,Net Banking,Pune,New,0.05,4.0,0,2711.6,5
+Ord100283,2023-03-25,Electronics,1,1082.71,Upi,Delhi,New,0.1,8.0,1,974.44,3
+Ord100284,2023-11-17,Electronics,1,2657.57,Upi,Bangalore,New,0.12,3.0,0,2338.66,11
+Ord100285,2023-11-15,Fashion,1,3486.94,Net Banking,Delhi,Regular,0.27,3.0,0,2545.47,11
+Ord100286,2023-04-11,Toys,4,3054.89,Net Banking,Mumbai,New,0.07,4.0,0,11364.19,4
+Ord100287,2023-11-25,Beauty,1,3133.06,Net Banking,Mumbai,Regular,0.03,9.0,0,3039.07,11
+Ord100288,2023-09-30,Electronics,4,4709.79,Credit Card,Mumbai,Vip,0.1,5.0,0,16955.24,9
+Ord100289,2023-09-22,Home & Kitchen,3,3901.97,Cash On Delivery,Chennai,New,0.03,8.0,1,11354.73,9
+Ord100290,2023-02-07,Beauty,4,726.89,Credit Card,Hyderabad,Regular,0.04,6.0,0,2791.26,2
+Ord100291,2023-04-04,Electronics,3,1802.78,Net Banking,Delhi,New,0.17,3.0,0,4488.92,4
+Ord100292,2023-04-05,Beauty,1,2233.43,Net Banking,Hyderabad,New,0.02,8.0,1,2188.76,4
+Ord100293,2023-11-01,Electronics,3,2657.57,Credit Card,Pune,New,0.01,4.0,0,7892.98,11
+Ord100294,2023-03-10,Home & Kitchen,4,3379.61,Credit Card,Bangalore,New,0.21,8.0,0,10679.57,3
+Ord100295,2023-11-14,Books,2,4470.28,Upi,Hyderabad,New,0.11,4.0,0,7957.1,11
+Ord100296,2023-08-24,Fashion,3,1599.65,Credit Card,Chennai,New,0.04,6.0,0,4606.99,8
+Ord100297,2023-11-30,Electronics,3,2804.2,Cash On Delivery,Mumbai,Regular,0.08,1.0,0,7739.59,11
+Ord100298,2023-05-17,Beauty,1,3968.11,Cash On Delivery,Bangalore,Regular,0.19,4.0,0,3214.17,5
+Ord100299,2023-03-17,Electronics,4,2657.57,Cash On Delivery,Delhi,Regular,0.08,8.0,0,9779.86,3
+Ord100300,2023-02-04,Toys,3,923.78,Net Banking,Bangalore,New,0.15,1.0,0,2355.64,2
+Ord100301,2023-01-01,Fashion,2,2427.26,Upi,Pune,New,0.04,3.0,1,4660.34,1
+Ord100302,2023-10-23,Fashion,3,370.59,Credit Card,Pune,Vip,0.18,1.0,0,911.65,10
+Ord100303,2023-11-16,Beauty,2,4717.68,Upi,Mumbai,Regular,0.09,9.0,1,8586.18,11
+Ord100304,2023-03-01,Toys,3,466.62,Net Banking,Delhi,Vip,0.19,2.0,0,1133.89,3
+Ord100305,2023-11-16,Beauty,4,2248.44,Net Banking,Delhi,Regular,0.24,9.0,0,6835.26,11
+Ord100306,2023-12-15,Beauty,1,2343.1499999999996,Credit Card,Mumbai,New,0.18,4.0,0,1921.38,12
+Ord100307,2023-11-24,Fashion,2,4927.99,Credit Card,Mumbai,New,0.09,2.0,0,8968.94,11
+Ord100308,2023-09-24,Toys,2,913.51,Credit Card,Delhi,Vip,0.08,4.0,0,1680.86,9
+Ord100309,2023-12-27,Toys,4,660.71,Net Banking,Chennai,Vip,0.1,6.0,0,2378.56,12
+Ord100310,2023-08-17,Toys,3,142.66,Credit Card,Hyderabad,Regular,0.05,7.0,0,406.58,8
+Ord100311,2023-09-27,Beauty,2,862.3,Net Banking,Hyderabad,Regular,0.05,3.0,0,1638.37,9
+Ord100312,2023-11-12,Fashion,4,1115.64,Credit Card,Pune,Vip,0.24,3.0,0,3391.55,11
+Ord100313,2023-10-13,Books,3,3189.85,Credit Card,Bangalore,Vip,0.12,8.0,0,8421.2,10
+Ord100314,2023-10-18,Electronics,2,1176.56,Upi,Chennai,Vip,0.13,5.0,0,2047.21,10
+Ord100315,2023-08-01,Home & Kitchen,3,2733.5,Net Banking,Mumbai,Vip,0.18,4.0,0,6724.41,8
+Ord100316,2023-06-14,Books,1,4150.43,Upi,Hyderabad,New,0.18,7.0,0,3403.35,6
+Ord100317,2023-01-05,Books,2,1891.42,Credit Card,Hyderabad,Regular,0.02,7.0,0,3707.18,1
+Ord100318,2023-12-05,Electronics,4,1833.11,Cash On Delivery,Hyderabad,New,0.25,9.0,0,5499.33,12
+Ord100319,2023-03-19,Toys,1,1582.15,Cash On Delivery,Mumbai,Regular,0.05,9.0,1,1503.04,3
+Ord100320,2023-03-03,Electronics,4,4879.33,Upi,Mumbai,New,0.22,5.0,0,15223.51,3
+Ord100321,2023-05-12,Fashion,3,933.57,Net Banking,Delhi,Regular,0.23,8.0,0,2156.55,5
+Ord100322,2023-03-30,Electronics,4,4501.37,Net Banking,Delhi,Vip,0.21,1.0,0,14224.33,3
+Ord100323,2023-08-25,Toys,3,3906.34,Credit Card,Chennai,New,0.17,9.0,0,9726.79,8
+Ord100324,2023-02-11,Electronics,2,474.75,Net Banking,Pune,Regular,0.0,8.0,1,949.5,2
+Ord100325,2023-03-30,Toys,4,4934.97,Net Banking,Delhi,Vip,0.11,6.0,1,17568.49,3
+Ord100326,2023-10-23,Toys,2,1429.69,Net Banking,Bangalore,New,0.18,3.0,0,2344.69,10
+Ord100327,2023-11-24,Beauty,1,583.06,Upi,Bangalore,Vip,0.12,3.0,0,513.09,11
+Ord100328,2023-10-22,Home & Kitchen,3,4163.64,Net Banking,Bangalore,Regular,0.26,8.0,1,9243.28,10
+Ord100329,2023-04-14,Home & Kitchen,4,3562.71,Upi,Delhi,Vip,0.09,5.0,0,12968.26,4
+Ord100330,2023-01-14,Beauty,2,3124.37,Upi,Mumbai,New,0.09,7.0,1,5686.35,1
+Ord100331,2023-10-15,Books,3,864.31,Upi,Delhi,Vip,0.08,5.0,0,2385.5,10
+Ord100332,2023-06-28,Fashion,3,2444.63,Upi,Hyderabad,Vip,0.1,8.0,0,6600.5,6
+Ord100333,2023-05-05,Books,1,3924.72,Upi,Hyderabad,New,0.17,4.0,0,3257.52,5
+Ord100334,2023-12-19,Fashion,1,1587.76,Net Banking,Delhi,New,0.21,2.0,1,1254.33,12
+Ord100335,2023-01-23,Books,3,1627.28,Net Banking,Pune,New,0.2,3.0,0,3905.47,1
+Ord100336,2023-03-04,Toys,3,115.39,Net Banking,Mumbai,Regular,0.24,8.0,1,263.09,3
+Ord100337,2023-05-23,Home & Kitchen,4,953.79,Upi,Hyderabad,Vip,0.27,7.0,1,2785.07,5
+Ord100338,2023-06-02,Fashion,3,4389.49,Upi,Pune,Regular,0.24,2.0,0,10008.04,6
+Ord100339,2023-05-25,Fashion,4,2264.56,Credit Card,Chennai,Regular,0.01,6.0,1,8967.66,5
+Ord100340,2023-08-13,Toys,3,4922.75,Cash On Delivery,Hyderabad,Regular,0.22,9.0,0,11519.24,8
+Ord100341,2023-11-05,Fashion,1,2038.97,Credit Card,Pune,New,0.06,4.0,1,1916.63,11
+Ord100342,2023-04-14,Home & Kitchen,4,3604.41,Credit Card,Chennai,New,0.04,9.0,0,13840.93,4
+Ord100343,2023-04-14,Toys,2,1481.4,Net Banking,Delhi,New,0.19,2.0,1,2399.87,4
+Ord100344,2023-02-08,Electronics,1,1882.67,Cash On Delivery,Delhi,New,0.1,2.0,1,1694.4,2
+Ord100345,2023-07-17,Electronics,4,1034.56,Cash On Delivery,Chennai,Regular,0.02,9.0,1,4055.48,7
+Ord100346,2023-05-14,Fashion,2,1800.61,Cash On Delivery,Pune,Regular,0.04,7.0,0,3457.17,5
+Ord100347,2023-03-08,Home & Kitchen,2,2781.46,Credit Card,Bangalore,New,0.0,7.0,0,5562.92,3
+Ord100348,2023-06-28,Toys,4,4959.69,Net Banking,Pune,Vip,0.27,1.0,1,14482.29,6
+Ord100349,2023-02-11,Fashion,3,3354.59,Net Banking,Chennai,New,0.01,6.0,1,9963.13,2
+Ord100350,2023-01-15,Books,2,1076.31,Cash On Delivery,Pune,Regular,0.06,7.0,1,2023.46,1
+Ord100351,2023-04-21,Beauty,1,2343.1499999999996,Credit Card,Pune,Vip,0.12,6.0,1,2061.97,4
+Ord100352,2023-06-06,Home & Kitchen,1,719.15,Credit Card,Hyderabad,New,0.11,6.0,0,640.04,6
+Ord100353,2023-10-16,Home & Kitchen,3,2856.52,Net Banking,Pune,Vip,0.27,2.0,0,6255.78,10
+Ord100354,2023-08-19,Home & Kitchen,1,3849.29,Net Banking,Chennai,Vip,0.01,6.0,0,3810.8,8
+Ord100355,2023-06-06,Toys,4,4708.05,Cash On Delivery,Pune,New,0.15,4.0,1,16007.37,6
+Ord100356,2023-02-07,Fashion,4,177.53,Cash On Delivery,Delhi,Regular,0.2,9.0,0,568.1,2
+Ord100357,2023-04-07,Fashion,3,2661.52,Net Banking,Chennai,Regular,0.28,5.0,0,5748.88,4
+Ord100358,2023-10-16,Toys,1,2407.25,Credit Card,Pune,New,0.19,8.0,1,1949.87,10
+Ord100359,2023-09-11,Fashion,1,3314.67,Cash On Delivery,Bangalore,New,0.24,5.0,0,2519.15,9
+Ord100360,2023-07-15,Home & Kitchen,3,2841.94,Cash On Delivery,Mumbai,Regular,0.03,1.0,0,8270.05,7
+Ord100361,2023-03-27,Home & Kitchen,2,3466.49,Credit Card,Mumbai,New,0.12,5.0,0,6101.02,3
+Ord100362,2023-11-18,Electronics,1,3324.6,Upi,Hyderabad,New,0.11,1.0,0,2958.89,11
+Ord100363,2023-01-10,Home & Kitchen,2,673.36,Credit Card,Pune,Regular,0.27,6.0,1,983.11,1
+Ord100364,2023-01-05,Electronics,1,4018.62,Credit Card,Hyderabad,New,0.05,2.0,0,3817.69,1
+Ord100365,2023-05-03,Books,1,703.84,Credit Card,Pune,Vip,0.05,5.0,1,668.65,5
+Ord100366,2023-11-26,Electronics,1,3522.8,Upi,Mumbai,New,0.1,7.0,0,3170.52,11
+Ord100367,2023-12-19,Beauty,1,2139.11,Net Banking,Delhi,New,0.02,2.0,0,2096.33,12
+Ord100368,2023-04-28,Books,4,2617.87,Upi,Pune,New,0.05,6.0,0,9947.91,4
+Ord100369,2023-10-21,Electronics,2,4526.16,Net Banking,Chennai,Regular,0.29,6.0,0,6427.15,10
+Ord100370,2023-06-08,Books,2,4460.43,Credit Card,Pune,Regular,0.13,5.0,0,7761.15,6
+Ord100371,2023-10-30,Fashion,1,4107.5,Upi,Mumbai,Vip,0.19,5.0,0,3327.08,10
+Ord100372,2023-08-16,Fashion,1,2599.73,Cash On Delivery,Mumbai,Vip,0.22,3.0,0,2027.79,8
+Ord100373,2023-12-31,Books,2,3707.58,Net Banking,Delhi,Vip,0.11,2.0,0,6599.49,12
+Ord100374,2023-08-04,Toys,4,2613.2,Cash On Delivery,Delhi,Regular,0.04,7.0,1,10034.69,8
+Ord100375,2023-07-03,Electronics,3,4361.07,Cash On Delivery,Delhi,Vip,0.06,1.0,0,12298.22,7
+Ord100376,2023-01-15,Beauty,3,2073.6,Upi,Chennai,New,0.09,6.0,0,5660.93,1
+Ord100377,2023-06-06,Books,2,4854.15,Credit Card,Chennai,New,0.19,6.0,0,7863.72,6
+Ord100378,2023-05-16,Fashion,1,4668.38,Net Banking,Bangalore,Regular,0.12,3.0,1,4108.17,5
+Ord100379,2023-09-18,Books,1,3733.85,Net Banking,Pune,Regular,0.0,5.0,0,3733.85,9
+Ord100380,2023-06-06,Electronics,4,1469.14,Upi,Mumbai,Regular,0.16,2.0,0,4936.31,6
+Ord100381,2023-02-16,Books,3,745.1,Upi,Chennai,Regular,0.28,9.0,0,1609.42,2
+Ord100382,2023-11-20,Home & Kitchen,4,2733.5,Upi,Hyderabad,Vip,0.24,5.0,0,8309.84,11
+Ord100383,2023-11-28,Fashion,3,909.98,Cash On Delivery,Hyderabad,Vip,0.25,5.0,0,2047.46,11
+Ord100384,2023-06-22,Books,2,4285.88,Net Banking,Hyderabad,Regular,0.24,5.0,0,6514.54,6
+Ord100385,2023-05-10,Books,3,2504.75,Upi,Bangalore,Vip,0.1,7.0,0,6762.82,5
+Ord100386,2023-04-05,Home & Kitchen,4,2733.5,Cash On Delivery,Pune,Regular,0.23,4.0,0,8419.18,4
+Ord100387,2023-04-25,Beauty,4,4525.63,Upi,Hyderabad,Regular,0.04,8.0,1,17378.42,4
+Ord100388,2023-08-31,Toys,4,3058.87,Credit Card,Bangalore,Regular,0.2,7.0,0,9788.38,8
+Ord100389,2023-10-19,Fashion,2,2925.41,Credit Card,Hyderabad,Vip,0.19,5.0,0,4739.16,10
+Ord100390,2023-10-09,Toys,3,2837.95,Net Banking,Delhi,Regular,0.01,6.0,0,8428.71,10
+Ord100391,2023-10-26,Beauty,2,1918.73,Net Banking,Pune,New,0.24,5.0,1,2916.47,10
+Ord100392,2023-10-10,Books,4,2765.735,Cash On Delivery,Pune,Regular,0.27,5.0,1,8075.95,10
+Ord100393,2023-03-10,Books,3,1338.71,Cash On Delivery,Mumbai,Regular,0.08,2.0,1,3694.84,3
+Ord100394,2023-05-28,Books,2,4700.59,Net Banking,Hyderabad,Regular,0.24,5.0,1,7144.9,5
+Ord100395,2023-01-11,Books,1,4480.53,Upi,Chennai,New,0.02,3.0,1,4390.92,1
+Ord100396,2023-09-11,Fashion,1,2800.8050000000003,Upi,Delhi,New,0.18,9.0,1,2296.66,9
+Ord100397,2023-11-26,Electronics,3,3674.37,Net Banking,Delhi,New,0.15,6.0,0,9369.64,11
+Ord100398,2023-12-26,Home & Kitchen,2,2908.79,Net Banking,Pune,Vip,0.16,3.0,0,4886.77,12
+Ord100399,2023-02-07,Electronics,2,1754.48,Credit Card,Delhi,Regular,0.28,7.0,0,2526.45,2
+Ord100400,2023-05-14,Beauty,2,4943.76,Upi,Chennai,New,0.26,4.0,1,7316.76,5
+Ord100401,2023-07-19,Electronics,2,223.66,Upi,Pune,New,0.24,3.0,1,339.96,7
+Ord100402,2023-01-23,Home & Kitchen,1,1337.97,Upi,Pune,Regular,0.08,8.0,0,1230.93,1
+Ord100403,2023-10-30,Electronics,3,2648.36,Upi,Delhi,New,0.27,4.0,1,5799.91,10
+Ord100404,2023-12-12,Electronics,4,2657.57,Credit Card,Chennai,Vip,0.03,1.0,0,10311.37,12
+Ord100405,2023-10-29,Beauty,3,2985.77,Credit Card,Hyderabad,Regular,0.26,6.0,0,6628.41,10
+Ord100406,2023-12-29,Home & Kitchen,3,3783.21,Net Banking,Chennai,Vip,0.1,1.0,0,10214.67,12
+Ord100407,2023-08-06,Toys,2,3155.04,Net Banking,Hyderabad,Vip,0.02,5.0,0,6183.88,8
+Ord100408,2023-05-21,Home & Kitchen,1,3041.38,Cash On Delivery,Pune,Regular,0.2,7.0,0,2433.1,5
+Ord100409,2023-04-14,Home & Kitchen,2,362.22,Credit Card,Hyderabad,New,0.07,6.0,0,673.73,4
+Ord100410,2023-07-29,Toys,4,1945.0,Net Banking,Delhi,Regular,0.07,2.0,1,7235.4,7
+Ord100411,2023-04-21,Beauty,3,1237.07,Cash On Delivery,Chennai,Regular,0.09,4.0,1,3377.2,4
+Ord100412,2023-04-14,Beauty,2,1400.31,Credit Card,Bangalore,New,0.02,2.0,1,2744.61,4
+Ord100413,2023-11-12,Fashion,2,2816.25,Cash On Delivery,Pune,New,0.05,1.0,0,5350.88,11
+Ord100414,2023-06-20,Home & Kitchen,4,1077.58,Credit Card,Delhi,Vip,0.0,3.0,0,4310.32,6
+Ord100415,2023-12-22,Home & Kitchen,3,1540.35,Credit Card,Bangalore,Vip,0.13,3.0,1,4020.31,12
+Ord100416,2023-11-20,Beauty,4,1261.72,Cash On Delivery,Bangalore,Vip,0.03,7.0,1,4895.47,11
+Ord100417,2023-05-13,Electronics,4,4747.66,Credit Card,Delhi,Regular,0.2,1.0,0,15192.51,5
+Ord100418,2023-10-20,Toys,2,4728.86,Upi,Chennai,New,0.07,9.0,0,8795.68,10
+Ord100419,2023-11-24,Electronics,1,3088.71,Upi,Delhi,Regular,0.28,6.0,0,2223.87,11
+Ord100420,2023-05-07,Books,2,4630.16,Net Banking,Pune,New,0.26,4.0,0,6852.64,5
+Ord100421,2023-04-16,Electronics,1,3950.48,Credit Card,Bangalore,Regular,0.09,4.0,0,3594.94,4
+Ord100422,2023-04-02,Fashion,4,2990.74,Upi,Hyderabad,New,0.23,3.0,0,9211.48,4
+Ord100423,2023-10-14,Books,1,131.53,Net Banking,Bangalore,Regular,0.24,2.0,0,99.96,10
+Ord100424,2023-02-20,Electronics,4,2657.57,Net Banking,Bangalore,Vip,0.3,2.0,0,7441.2,2
+Ord100425,2023-01-29,Books,3,3542.19,Credit Card,Chennai,Regular,0.18,5.0,0,8713.79,1
+Ord100426,2023-10-23,Fashion,3,3114.74,Net Banking,Delhi,New,0.02,9.0,1,9157.34,10
+Ord100427,2023-10-24,Beauty,3,3826.08,Cash On Delivery,Chennai,New,0.19,2.0,0,9297.37,10
+Ord100428,2023-08-02,Books,2,2613.32,Net Banking,Mumbai,New,0.19,5.0,1,4233.58,8
+Ord100429,2023-09-24,Electronics,2,2657.57,Net Banking,Bangalore,Vip,0.19,6.0,0,4305.26,9
+Ord100430,2023-09-14,Fashion,4,4682.34,Cash On Delivery,Bangalore,Vip,0.09,2.0,1,17043.72,9
+Ord100431,2023-10-29,Electronics,3,1941.44,Credit Card,Delhi,Vip,0.26,4.0,0,4310.0,10
+Ord100432,2023-04-11,Electronics,2,3569.8,Cash On Delivery,Pune,New,0.29,6.0,1,5069.12,4
+Ord100433,2023-12-12,Home & Kitchen,3,2430.87,Upi,Pune,New,0.07,5.0,1,6782.13,12
+Ord100434,2023-04-20,Beauty,2,2343.1499999999996,Credit Card,Bangalore,Vip,0.03,1.0,0,4545.71,4
+Ord100435,2023-07-01,Home & Kitchen,1,3838.18,Net Banking,Delhi,Vip,0.06,6.0,1,3607.89,7
+Ord100436,2023-11-09,Beauty,2,322.72,Credit Card,Chennai,Regular,0.25,1.0,0,484.08,11
+Ord100437,2023-01-01,Beauty,2,3268.34,Net Banking,Pune,Regular,0.2,3.0,0,5229.34,1
+Ord100438,2023-11-15,Beauty,4,1211.03,Net Banking,Delhi,Vip,0.19,5.0,0,3923.74,11
+Ord100439,2023-02-24,Books,2,3383.16,Cash On Delivery,Delhi,Regular,0.12,5.0,0,5954.36,2
+Ord100440,2023-05-29,Home & Kitchen,2,2394.82,Upi,Delhi,Regular,0.17,6.0,0,3975.4,5
+Ord100441,2023-11-05,Books,1,3890.41,Credit Card,Delhi,New,0.09,8.0,1,3540.27,11
+Ord100442,2023-05-17,Beauty,1,704.66,Credit Card,Hyderabad,Vip,0.14,5.0,0,606.01,5
+Ord100443,2023-07-21,Fashion,4,3168.98,Net Banking,Mumbai,Vip,0.24,1.0,0,9633.7,7
+Ord100444,2023-11-09,Electronics,4,1464.51,Upi,Pune,New,0.29,4.0,1,4159.21,11
+Ord100445,2023-04-27,Books,4,4279.61,Upi,Bangalore,New,0.28,3.0,1,12325.28,4
+Ord100446,2023-06-03,Electronics,3,4649.08,Net Banking,Delhi,New,0.28,4.0,0,10042.01,6
+Ord100447,2023-10-18,Books,1,2765.735,Cash On Delivery,Pune,New,0.12,8.0,0,2433.85,10
+Ord100448,2023-03-04,Home & Kitchen,3,2733.5,Net Banking,Pune,Regular,0.14,7.0,1,7052.43,3
+Ord100449,2023-09-01,Beauty,1,2343.1499999999996,Credit Card,Mumbai,Vip,0.21,5.0,0,1851.09,9
+Ord100450,2023-01-25,Electronics,1,1155.95,Cash On Delivery,Bangalore,Vip,0.28,2.0,0,832.28,1
+Ord100451,2023-03-31,Electronics,2,2657.57,Credit Card,Pune,Vip,0.04,6.0,0,5102.53,3
+Ord100452,2023-03-16,Electronics,3,2381.84,Upi,Bangalore,Regular,0.09,6.0,0,6502.42,3
+Ord100453,2023-10-21,Toys,1,3889.57,Cash On Delivery,Chennai,Vip,0.04,6.0,0,3733.99,10
+Ord100454,2023-07-29,Electronics,3,4583.33,Credit Card,Delhi,New,0.18,9.0,1,11274.99,7
+Ord100455,2023-12-13,Beauty,1,1026.78,Net Banking,Mumbai,New,0.09,8.0,0,934.37,12
+Ord100456,2023-01-17,Electronics,3,4619.6,Cash On Delivery,Pune,Regular,0.1,8.0,0,12472.92,1
+Ord100457,2023-05-08,Books,4,3508.56,Cash On Delivery,Chennai,New,0.02,1.0,0,13753.56,5
+Ord100458,2023-12-30,Fashion,1,3092.78,Net Banking,Hyderabad,New,0.1,5.0,0,2783.5,12
+Ord100459,2023-09-08,Fashion,1,1079.22,Cash On Delivery,Hyderabad,New,0.26,7.0,0,798.62,9
+Ord100460,2023-06-28,Beauty,3,372.07,Upi,Mumbai,Regular,0.07,6.0,0,1038.08,6
+Ord100461,2023-07-01,Books,4,2885.48,Cash On Delivery,Bangalore,New,0.21,5.0,1,9118.12,7
+Ord100462,2023-06-01,Home & Kitchen,2,3292.43,Cash On Delivery,Chennai,Regular,0.19,8.0,1,5333.74,6
+Ord100463,2023-01-25,Toys,4,1132.83,Credit Card,Chennai,New,0.26,3.0,0,3353.18,1
+Ord100464,2023-06-29,Books,3,2826.64,Upi,Mumbai,Vip,0.04,6.0,0,8140.72,6
+Ord100465,2023-07-17,Home & Kitchen,4,4296.82,Net Banking,Chennai,Regular,0.29,5.0,1,12202.97,7
+Ord100466,2023-12-10,Home & Kitchen,3,4191.82,Cash On Delivery,Chennai,New,0.17,8.0,0,10437.63,12
+Ord100467,2023-06-10,Electronics,3,2657.57,Net Banking,Delhi,Vip,0.3,4.0,1,5580.9,6
+Ord100468,2023-06-26,Books,2,1892.84,Upi,Bangalore,Vip,0.27,8.0,1,2763.55,6
+Ord100469,2023-10-12,Toys,1,1658.44,Credit Card,Pune,Regular,0.07,2.0,1,1542.35,10
+Ord100470,2023-03-04,Home & Kitchen,3,3772.19,Cash On Delivery,Chennai,Regular,0.02,9.0,0,11090.24,3
+Ord100471,2023-05-30,Fashion,3,2212.45,Upi,Hyderabad,Regular,0.08,9.0,0,6106.36,5
+Ord100472,2023-06-03,Toys,2,528.99,Credit Card,Bangalore,New,0.16,6.0,1,888.7,6
+Ord100473,2023-06-05,Toys,3,1485.73,Cash On Delivery,Bangalore,Regular,0.05,4.0,1,4234.33,6
+Ord100474,2023-02-18,Beauty,1,2151.05,Cash On Delivery,Hyderabad,New,0.05,4.0,1,2043.5,2
+Ord100475,2023-12-03,Books,2,1533.33,Credit Card,Delhi,Vip,0.14,6.0,0,2637.33,12
+Ord100476,2023-03-25,Electronics,1,1727.81,Cash On Delivery,Bangalore,Vip,0.01,5.0,1,1710.53,3
+Ord100477,2023-12-27,Home & Kitchen,1,2733.5,Credit Card,Pune,New,0.04,6.0,1,2624.16,12
+Ord100478,2023-06-26,Books,2,2765.735,Net Banking,Delhi,Regular,0.12,7.0,0,4867.69,6
+Ord100479,2023-05-28,Home & Kitchen,3,3221.76,Net Banking,Mumbai,Regular,0.02,7.0,0,9471.97,5
+Ord100480,2023-04-28,Home & Kitchen,1,3026.73,Net Banking,Bangalore,Vip,0.12,9.0,0,2663.52,4
+Ord100481,2023-12-08,Books,1,3301.58,Net Banking,Bangalore,Vip,0.14,8.0,1,2839.36,12
+Ord100482,2023-03-04,Home & Kitchen,1,1042.32,Upi,Mumbai,Vip,0.14,5.0,0,896.4,3
+Ord100483,2023-07-08,Home & Kitchen,1,1548.71,Net Banking,Mumbai,Regular,0.26,6.0,1,1146.05,7
+Ord100484,2023-12-26,Beauty,2,3136.12,Upi,Chennai,Regular,0.16,5.0,1,5268.68,12
+Ord100485,2023-02-18,Home & Kitchen,2,3038.18,Upi,Hyderabad,Regular,0.14,1.0,1,5225.67,2
+Ord100486,2023-11-23,Beauty,4,2581.02,Credit Card,Pune,Vip,0.12,9.0,0,9085.19,11
+Ord100487,2023-09-14,Toys,4,1817.02,Upi,Mumbai,Vip,0.25,9.0,0,5451.06,9
+Ord100488,2023-08-12,Beauty,2,4573.36,Net Banking,Chennai,Vip,0.27,9.0,1,6677.11,8
+Ord100489,2023-05-21,Beauty,2,1764.87,Cash On Delivery,Pune,Regular,0.26,8.0,0,2612.01,5
+Ord100490,2023-08-03,Home & Kitchen,1,2332.53,Net Banking,Hyderabad,Regular,0.2,3.0,0,1866.02,8
+Ord100491,2023-07-30,Fashion,3,3422.76,Upi,Chennai,Regular,0.04,1.0,0,9857.55,7
+Ord100492,2023-11-14,Electronics,1,2760.81,Net Banking,Mumbai,Vip,0.08,8.0,0,2539.95,11
+Ord100493,2023-02-01,Electronics,4,1799.74,Cash On Delivery,Chennai,New,0.01,7.0,0,7126.97,2
+Ord100494,2023-06-07,Home & Kitchen,4,2733.5,Upi,Mumbai,Regular,0.28,5.0,0,7872.48,6
+Ord100495,2023-10-12,Books,3,3992.96,Upi,Hyderabad,Regular,0.2,7.0,1,9583.1,10
+Ord100496,2023-11-01,Books,1,1462.83,Credit Card,Mumbai,Regular,0.22,4.0,0,1141.01,11
+Ord100497,2023-10-13,Beauty,2,797.05,Cash On Delivery,Hyderabad,Vip,0.09,9.0,1,1450.63,10
+Ord100498,2023-05-24,Electronics,4,1634.5,Upi,Hyderabad,Vip,0.25,2.0,1,4903.5,5
+Ord100499,2023-01-19,Beauty,2,4262.72,Cash On Delivery,Mumbai,Vip,0.08,9.0,0,7843.4,1
+Ord100500,2023-01-18,Toys,1,536.05,Net Banking,Mumbai,Vip,0.0,9.0,0,536.05,1
+Ord100501,2023-09-14,Beauty,3,4959.31,Cash On Delivery,Delhi,Regular,0.11,5.0,1,13241.36,9
+Ord100502,2023-03-19,Toys,3,2750.91,Credit Card,Pune,Regular,0.17,1.0,1,6849.77,3
+Ord100503,2023-06-24,Beauty,3,4925.74,Upi,Hyderabad,New,0.14,7.0,0,12708.41,6
+Ord100504,2023-07-13,Books,4,4701.08,Credit Card,Mumbai,Vip,0.26,4.0,0,13915.2,7
+Ord100505,2023-04-23,Home & Kitchen,3,2318.79,Credit Card,Delhi,Regular,0.03,9.0,1,6747.68,4
+Ord100506,2023-04-24,Books,4,1072.61,Upi,Bangalore,Regular,0.17,6.0,0,3561.07,4
+Ord100507,2023-08-10,Home & Kitchen,4,907.94,Upi,Pune,Vip,0.15,3.0,1,3087.0,8
+Ord100508,2023-06-15,Beauty,4,1275.95,Net Banking,Pune,New,0.08,6.0,0,4695.5,6
+Ord100509,2023-11-15,Home & Kitchen,2,3579.65,Net Banking,Mumbai,Regular,0.25,5.0,0,5369.48,11
+Ord100510,2023-05-12,Books,1,1437.45,Net Banking,Bangalore,Vip,0.23,5.0,1,1106.84,5
+Ord100511,2023-09-21,Books,3,1772.98,Upi,Bangalore,Vip,0.22,2.0,0,4148.77,9
+Ord100512,2023-02-24,Toys,3,2299.02,Credit Card,Hyderabad,Regular,0.26,2.0,0,5103.82,2
+Ord100513,2023-12-25,Toys,4,4574.84,Upi,Mumbai,Vip,0.22,7.0,0,14273.5,12
+Ord100514,2023-05-11,Electronics,3,1028.03,Credit Card,Bangalore,Regular,0.07,2.0,1,2868.2,5
+Ord100515,2023-10-15,Home & Kitchen,4,124.63,Upi,Chennai,New,0.21,6.0,0,393.83,10
+Ord100516,2023-09-23,Fashion,2,2800.8050000000003,Cash On Delivery,Chennai,Regular,0.09,5.0,1,5097.47,9
+Ord100517,2023-06-11,Electronics,2,4533.36,Credit Card,Hyderabad,Vip,0.07,4.0,1,8432.05,6
+Ord100518,2023-03-28,Home & Kitchen,1,2733.5,Credit Card,Bangalore,Regular,0.02,7.0,0,2678.83,3
+Ord100519,2023-02-24,Books,2,1437.9,Credit Card,Pune,Vip,0.22,8.0,0,2243.12,2
+Ord100520,2023-10-15,Books,2,968.24,Upi,Bangalore,Vip,0.21,4.0,1,1529.82,10
+Ord100521,2023-06-27,Beauty,1,1541.91,Credit Card,Delhi,Vip,0.07,1.0,0,1433.98,6
+Ord100522,2023-12-15,Home & Kitchen,3,2733.5,Credit Card,Chennai,Regular,0.22,1.0,1,6396.39,12
+Ord100523,2023-01-08,Electronics,4,4713.51,Cash On Delivery,Bangalore,Regular,0.28,1.0,1,13574.91,1
+Ord100524,2023-11-17,Home & Kitchen,4,3942.61,Credit Card,Delhi,New,0.03,1.0,0,15297.33,11
+Ord100525,2023-11-09,Electronics,3,2365.72,Net Banking,Hyderabad,New,0.07,4.0,1,6600.36,11
+Ord100526,2023-09-04,Books,1,4338.32,Net Banking,Hyderabad,New,0.23,4.0,0,3340.51,9
+Ord100527,2023-11-19,Home & Kitchen,3,1322.35,Upi,Mumbai,New,0.08,9.0,1,3649.69,11
+Ord100528,2023-09-12,Fashion,2,3613.89,Upi,Delhi,Regular,0.19,3.0,0,5854.5,9
+Ord100529,2023-11-24,Fashion,1,2800.8050000000003,Credit Card,Mumbai,New,0.02,7.0,1,2744.79,11
+Ord100530,2023-02-23,Beauty,1,1848.17,Credit Card,Bangalore,New,0.14,8.0,1,1589.43,2
+Ord100531,2023-09-06,Electronics,1,3811.58,Net Banking,Pune,Regular,0.22,6.0,0,2973.03,9
+Ord100532,2023-08-27,Books,4,1545.85,Upi,Pune,Regular,0.21,1.0,1,4884.89,8
+Ord100533,2023-08-17,Books,3,1564.4,Upi,Hyderabad,Vip,0.24,8.0,1,3566.83,8
+Ord100534,2023-03-08,Fashion,1,2800.8050000000003,Upi,Pune,New,0.26,3.0,1,2072.6,3
+Ord100535,2023-02-20,Beauty,1,2256.28,Upi,Hyderabad,New,0.23,8.0,1,1737.34,2
+Ord100536,2023-04-07,Home & Kitchen,1,2733.5,Credit Card,Delhi,Regular,0.2,4.0,1,2186.8,4
+Ord100537,2023-04-02,Fashion,3,4707.08,Upi,Delhi,Regular,0.01,8.0,0,13980.03,4
+Ord100538,2023-09-21,Fashion,4,3058.61,Credit Card,Chennai,Vip,0.16,5.0,1,10276.93,9
+Ord100539,2023-10-18,Books,2,2765.735,Upi,Delhi,Vip,0.01,3.0,0,5476.16,10
+Ord100540,2023-04-06,Electronics,4,4130.22,Cash On Delivery,Pune,Regular,0.24,6.0,0,12555.87,4
+Ord100541,2023-03-29,Books,1,949.38,Cash On Delivery,Hyderabad,Vip,0.1,9.0,0,854.44,3
+Ord100542,2023-03-19,Beauty,4,2480.51,Net Banking,Bangalore,New,0.17,2.0,0,8235.29,3
+Ord100543,2023-10-15,Books,4,672.93,Net Banking,Delhi,New,0.08,1.0,1,2476.38,10
+Ord100544,2023-04-30,Books,2,3442.55,Credit Card,Delhi,Regular,0.23,3.0,1,5301.53,4
+Ord100545,2023-10-29,Toys,3,4754.51,Credit Card,Hyderabad,New,0.27,4.0,0,10412.38,10
+Ord100546,2023-06-14,Toys,3,2328.87,Cash On Delivery,Bangalore,Vip,0.12,5.0,0,6148.22,6
+Ord100547,2023-07-01,Fashion,4,3696.03,Upi,Hyderabad,Regular,0.26,3.0,0,10940.25,7
+Ord100548,2023-08-11,Beauty,2,3197.97,Net Banking,Chennai,New,0.08,2.0,0,5884.26,8
+Ord100549,2023-11-07,Home & Kitchen,3,2959.66,Cash On Delivery,Delhi,Vip,0.16,2.0,1,7458.34,11
+Ord100550,2023-01-07,Home & Kitchen,3,2011.59,Cash On Delivery,Mumbai,Regular,0.26,7.0,0,4465.73,1
+Ord100551,2023-11-26,Home & Kitchen,2,1840.15,Net Banking,Delhi,New,0.1,9.0,0,3312.27,11
+Ord100552,2023-09-20,Home & Kitchen,1,321.72,Net Banking,Delhi,Vip,0.29,2.0,1,228.42,9
+Ord100553,2023-06-10,Books,4,1167.75,Upi,Pune,Vip,0.04,7.0,0,4484.16,6
+Ord100554,2023-05-31,Fashion,3,174.37,Cash On Delivery,Chennai,Vip,0.01,7.0,0,517.88,5
+Ord100555,2023-03-26,Electronics,4,2948.94,Cash On Delivery,Chennai,Regular,0.27,7.0,0,8610.9,3
+Ord100556,2023-05-27,Beauty,4,618.68,Upi,Hyderabad,Vip,0.02,3.0,0,2425.23,5
+Ord100557,2023-04-22,Beauty,3,4377.8,Upi,Pune,Vip,0.3,7.0,1,9193.38,4
+Ord100558,2023-02-05,Beauty,2,2343.1499999999996,Upi,Chennai,Vip,0.29,1.0,1,3327.27,2
+Ord100559,2023-10-12,Electronics,4,3528.48,Credit Card,Chennai,Regular,0.04,4.0,0,13549.36,10
+Ord100560,2023-07-07,Books,2,2113.2,Net Banking,Mumbai,Vip,0.16,5.0,1,3550.18,7
+Ord100561,2023-03-23,Home & Kitchen,3,2846.84,Net Banking,Mumbai,Vip,0.06,2.0,1,8028.09,3
+Ord100562,2023-01-02,Beauty,1,2343.1499999999996,Upi,Chennai,New,0.13,9.0,0,2038.54,1
+Ord100563,2023-10-30,Toys,1,2328.87,Credit Card,Mumbai,Vip,0.02,7.0,0,2282.29,10
+Ord100564,2023-07-16,Beauty,4,1344.3,Upi,Bangalore,Vip,0.07,4.0,0,5000.8,7
+Ord100565,2023-01-11,Electronics,3,2657.57,Upi,Hyderabad,New,0.11,4.0,1,7095.71,1
+Ord100566,2023-08-22,Toys,2,583.81,Cash On Delivery,Pune,Regular,0.13,2.0,1,1015.83,8
+Ord100567,2023-07-14,Books,4,470.74,Upi,Chennai,Vip,0.29,5.0,0,1336.9,7
+Ord100568,2023-04-29,Fashion,3,1871.55,Cash On Delivery,Delhi,Vip,0.24,4.0,0,4267.13,4
+Ord100569,2023-01-20,Toys,3,551.62,Net Banking,Bangalore,Vip,0.22,1.0,1,1290.79,1
+Ord100570,2023-09-18,Home & Kitchen,2,2966.88,Cash On Delivery,Bangalore,New,0.16,8.0,0,4984.36,9
+Ord100571,2023-10-20,Electronics,4,2657.57,Credit Card,Delhi,Regular,0.25,3.0,0,7972.71,10
+Ord100572,2023-09-13,Fashion,3,4488.92,Cash On Delivery,Pune,Regular,0.1,6.0,0,12120.08,9
+Ord100573,2023-08-10,Books,3,3939.15,Upi,Pune,Regular,0.21,4.0,0,9335.79,8
+Ord100574,2023-08-14,Home & Kitchen,3,3528.56,Cash On Delivery,Pune,New,0.3,9.0,0,7409.98,8
+Ord100575,2023-02-22,Electronics,2,3123.03,Credit Card,Bangalore,New,0.09,4.0,0,5683.91,2
+Ord100576,2023-12-21,Fashion,2,2800.8050000000003,Cash On Delivery,Hyderabad,New,0.2,9.0,0,4481.29,12
+Ord100577,2023-12-08,Electronics,4,2657.57,Cash On Delivery,Chennai,Regular,0.25,3.0,0,7972.71,12
+Ord100578,2023-12-30,Toys,4,4378.23,Credit Card,Bangalore,Regular,0.27,1.0,0,12784.43,12
+Ord100579,2023-10-07,Fashion,4,3968.51,Upi,Chennai,Vip,0.22,5.0,0,12381.75,10
+Ord100580,2023-03-22,Beauty,2,3765.99,Cash On Delivery,Chennai,New,0.09,3.0,0,6854.1,3
+Ord100581,2023-07-21,Electronics,1,2850.15,Cash On Delivery,Bangalore,Regular,0.1,6.0,1,2565.14,7
+Ord100582,2023-06-07,Books,4,1306.6,Credit Card,Hyderabad,Vip,0.01,8.0,0,5174.14,6
+Ord100583,2023-04-30,Home & Kitchen,2,2733.5,Net Banking,Delhi,New,0.23,4.0,0,4209.59,4
+Ord100584,2023-02-28,Beauty,1,2343.1499999999996,Cash On Delivery,Mumbai,Regular,0.01,5.0,0,2319.72,2
+Ord100585,2023-08-03,Books,3,255.71,Cash On Delivery,Delhi,New,0.26,5.0,0,567.68,8
+Ord100586,2023-05-08,Electronics,1,2657.57,Credit Card,Mumbai,Regular,0.04,4.0,0,2551.27,5
+Ord100587,2023-08-12,Electronics,3,1276.35,Credit Card,Pune,Regular,0.05,4.0,1,3637.6,8
+Ord100588,2023-07-28,Books,4,807.12,Cash On Delivery,Pune,Vip,0.14,4.0,0,2776.49,7
+Ord100589,2023-04-25,Fashion,2,666.94,Net Banking,Hyderabad,Vip,0.22,4.0,0,1040.43,4
+Ord100590,2023-07-28,Beauty,2,233.53,Credit Card,Pune,Regular,0.04,4.0,1,448.38,7
+Ord100591,2023-01-14,Home & Kitchen,1,2665.57,Net Banking,Mumbai,Regular,0.13,5.0,0,2319.05,1
+Ord100592,2023-01-09,Books,1,1169.47,Cash On Delivery,Delhi,Vip,0.14,2.0,0,1005.74,1
+Ord100593,2023-02-09,Books,1,4948.22,Net Banking,Mumbai,Regular,0.06,2.0,1,4651.33,2
+Ord100594,2023-08-25,Beauty,4,2914.74,Net Banking,Mumbai,New,0.03,9.0,1,11309.19,8
+Ord100595,2023-10-08,Beauty,2,775.64,Credit Card,Bangalore,Vip,0.25,2.0,1,1163.46,10
+Ord100596,2023-12-25,Fashion,1,3474.94,Upi,Bangalore,Vip,0.15,6.0,0,2953.7,12
+Ord100597,2023-07-20,Beauty,2,4498.94,Cash On Delivery,Delhi,Regular,0.0,2.0,0,8997.88,7
+Ord100598,2023-09-03,Beauty,4,3751.38,Cash On Delivery,Chennai,Regular,0.24,5.0,0,11404.2,9
+Ord100599,2023-10-05,Electronics,3,474.56,Net Banking,Hyderabad,New,0.29,4.0,0,1010.81,10
+Ord100600,2023-08-23,Toys,1,4489.83,Net Banking,Bangalore,New,0.18,7.0,0,3681.66,8
+Ord100601,2023-01-04,Toys,2,3990.25,Cash On Delivery,Chennai,Vip,0.15,7.0,0,6783.42,1
+Ord100602,2023-06-03,Books,2,875.69,Upi,Hyderabad,New,0.26,6.0,1,1296.02,6
+Ord100603,2023-01-29,Electronics,4,353.75,Upi,Delhi,Regular,0.29,5.0,0,1004.65,1
+Ord100604,2023-04-19,Beauty,2,2830.82,Credit Card,Mumbai,Regular,0.23,1.0,0,4359.46,4
+Ord100605,2023-04-08,Home & Kitchen,3,864.58,Net Banking,Hyderabad,Regular,0.13,3.0,0,2256.55,4
+Ord100606,2023-08-03,Books,2,2765.735,Cash On Delivery,Pune,Vip,0.18,9.0,1,4535.81,8
+Ord100607,2023-10-20,Home & Kitchen,1,1855.84,Credit Card,Hyderabad,Regular,0.21,1.0,0,1466.11,10
+Ord100608,2023-03-16,Toys,3,4573.17,Net Banking,Bangalore,Regular,0.06,5.0,1,12896.34,3
+Ord100609,2023-11-22,Home & Kitchen,2,2871.87,Net Banking,Pune,New,0.13,2.0,1,4997.05,11
+Ord100610,2023-05-26,Electronics,2,995.09,Net Banking,Bangalore,Vip,0.25,4.0,0,1492.64,5
+Ord100611,2023-05-08,Electronics,3,784.03,Cash On Delivery,Bangalore,Regular,0.2,1.0,0,1881.67,5
+Ord100612,2023-12-07,Fashion,3,2924.71,Net Banking,Pune,Vip,0.12,3.0,1,7721.23,12
+Ord100613,2023-02-11,Electronics,4,3833.23,Upi,Pune,Vip,0.2,7.0,0,12266.34,2
+Ord100614,2023-12-22,Beauty,1,3929.38,Upi,Bangalore,New,0.04,3.0,0,3772.2,12
+Ord100615,2023-02-10,Books,1,1451.21,Net Banking,Pune,Vip,0.12,4.0,1,1277.06,2
+Ord100616,2023-02-03,Electronics,4,1100.81,Upi,Delhi,Vip,0.24,2.0,1,3346.46,2
+Ord100617,2023-01-17,Books,2,182.11,Upi,Pune,Vip,0.07,3.0,1,338.72,1
+Ord100618,2023-06-14,Electronics,3,3428.08,Net Banking,Hyderabad,Regular,0.06,9.0,0,9667.19,6
+Ord100619,2023-06-02,Toys,3,475.18,Upi,Mumbai,New,0.29,3.0,0,1012.13,6
+Ord100620,2023-03-17,Beauty,3,2161.73,Upi,Pune,New,0.06,5.0,0,6096.08,3
+Ord100621,2023-03-28,Books,2,3048.24,Credit Card,Mumbai,New,0.08,2.0,0,5608.76,3
+Ord100622,2023-04-27,Electronics,3,4691.83,Cash On Delivery,Mumbai,New,0.29,4.0,0,9993.6,4
+Ord100623,2023-12-28,Toys,3,1627.83,Net Banking,Delhi,New,0.22,7.0,0,3809.12,12
+Ord100624,2023-12-08,Fashion,4,1323.88,Net Banking,Chennai,New,0.21,7.0,1,4183.46,12
+Ord100625,2023-01-27,Toys,2,3305.38,Credit Card,Delhi,Vip,0.26,3.0,1,4891.96,1
+Ord100626,2023-11-09,Fashion,1,3134.27,Net Banking,Pune,Regular,0.03,5.0,0,3040.24,11
+Ord100627,2023-10-14,Fashion,4,1727.34,Net Banking,Pune,Regular,0.21,1.0,0,5458.39,10
+Ord100628,2023-05-14,Fashion,4,4647.7,Cash On Delivery,Hyderabad,Vip,0.15,5.0,1,15802.18,5
+Ord100629,2023-08-07,Beauty,1,4239.83,Upi,Mumbai,New,0.25,5.0,0,3179.87,8
+Ord100630,2023-06-17,Toys,4,1197.51,Credit Card,Mumbai,Regular,0.15,9.0,0,4071.53,6
+Ord100631,2023-04-08,Home & Kitchen,2,1271.8,Upi,Chennai,Vip,0.19,1.0,1,2060.32,4
+Ord100632,2023-09-25,Beauty,3,2610.27,Upi,Chennai,New,0.14,1.0,1,6734.5,9
+Ord100633,2023-08-25,Fashion,2,3890.5,Net Banking,Mumbai,Regular,0.14,4.0,0,6691.66,8
+Ord100634,2023-11-05,Books,1,315.8,Upi,Delhi,Regular,0.23,4.0,0,243.17,11
+Ord100635,2023-06-22,Fashion,1,3497.34,Net Banking,Bangalore,Regular,0.19,2.0,1,2832.85,6
+Ord100636,2023-07-09,Books,4,3276.36,Cash On Delivery,Hyderabad,Vip,0.19,9.0,1,10615.41,7
+Ord100637,2023-05-02,Fashion,2,1234.25,Upi,Delhi,New,0.14,9.0,0,2122.91,5
+Ord100638,2023-02-15,Beauty,2,3438.63,Upi,Pune,New,0.16,2.0,1,5776.9,2
+Ord100639,2023-03-05,Electronics,3,4706.9,Net Banking,Pune,New,0.22,9.0,0,11014.15,3
+Ord100640,2023-05-10,Home & Kitchen,2,329.25,Upi,Mumbai,New,0.25,6.0,0,493.88,5
+Ord100641,2023-11-06,Beauty,1,1666.3,Credit Card,Bangalore,New,0.21,8.0,0,1316.38,11
+Ord100642,2023-12-29,Toys,2,2247.07,Upi,Hyderabad,Vip,0.28,4.0,1,3235.78,12
+Ord100643,2023-07-12,Beauty,2,4506.38,Cash On Delivery,Delhi,Regular,0.25,2.0,0,6759.57,7
+Ord100644,2023-11-03,Books,2,2765.735,Upi,Mumbai,Vip,0.17,2.0,0,4591.12,11
+Ord100645,2023-06-30,Books,1,2276.16,Upi,Mumbai,Vip,0.2,9.0,0,1820.93,6
+Ord100646,2023-10-19,Home & Kitchen,4,3775.14,Credit Card,Delhi,New,0.28,1.0,0,10872.4,10
+Ord100647,2023-10-09,Books,2,2705.14,Net Banking,Mumbai,Vip,0.19,7.0,1,4382.33,10
+Ord100648,2023-01-29,Books,1,2735.14,Upi,Pune,New,0.25,3.0,1,2051.36,1
+Ord100649,2023-05-29,Home & Kitchen,1,1462.69,Net Banking,Bangalore,New,0.21,5.0,0,1155.53,5
+Ord100650,2023-09-24,Electronics,2,1163.09,Cash On Delivery,Delhi,New,0.17,2.0,0,1930.73,9
+Ord100651,2023-10-23,Beauty,2,1511.23,Cash On Delivery,Hyderabad,New,0.07,6.0,0,2810.89,10
+Ord100652,2023-01-11,Toys,4,2826.01,Cash On Delivery,Hyderabad,New,0.13,2.0,0,9834.51,1
+Ord100653,2023-06-13,Toys,1,242.86,Credit Card,Bangalore,Regular,0.29,4.0,0,172.43,6
+Ord100654,2023-04-23,Fashion,1,4545.52,Credit Card,Delhi,New,0.2,9.0,0,3636.42,4
+Ord100655,2023-07-06,Electronics,3,2657.57,Credit Card,Hyderabad,Regular,0.17,9.0,0,6617.35,7
+Ord100656,2023-10-22,Beauty,1,2343.1499999999996,Credit Card,Mumbai,Vip,0.28,6.0,0,1687.07,10
+Ord100657,2023-08-20,Electronics,4,2639.55,Upi,Mumbai,New,0.18,4.0,0,8657.72,8
+Ord100658,2023-08-15,Books,3,3579.56,Net Banking,Bangalore,New,0.16,7.0,0,9020.49,8
+Ord100659,2023-11-06,Beauty,3,569.07,Net Banking,Pune,Vip,0.23,1.0,1,1314.55,11
+Ord100660,2023-04-08,Beauty,3,1656.7,Credit Card,Bangalore,Regular,0.21,4.0,0,3926.38,4
+Ord100661,2023-02-24,Books,2,4846.51,Upi,Delhi,Regular,0.06,5.0,0,9111.44,2
+Ord100662,2023-04-21,Books,2,1385.48,Net Banking,Bangalore,Regular,0.14,8.0,0,2383.03,4
+Ord100663,2023-06-01,Home & Kitchen,1,1633.95,Cash On Delivery,Pune,Vip,0.14,2.0,0,1405.2,6
+Ord100664,2023-09-03,Toys,3,4198.84,Upi,Hyderabad,Regular,0.11,5.0,0,11210.9,9
+Ord100665,2023-03-10,Beauty,4,346.05,Credit Card,Bangalore,New,0.16,6.0,0,1162.73,3
+Ord100666,2023-11-08,Electronics,2,2376.6,Cash On Delivery,Pune,Regular,0.12,5.0,1,4182.82,11
+Ord100667,2023-10-16,Fashion,4,1960.12,Net Banking,Bangalore,Regular,0.06,9.0,1,7370.05,10
+Ord100668,2023-09-07,Electronics,4,1651.28,Credit Card,Bangalore,New,0.12,1.0,0,5812.51,9
+Ord100669,2023-02-05,Home & Kitchen,2,1499.93,Cash On Delivery,Chennai,New,0.02,3.0,0,2939.86,2
+Ord100670,2023-08-27,Books,2,547.73,Net Banking,Mumbai,New,0.17,5.0,0,909.23,8
+Ord100671,2023-05-28,Fashion,2,1642.65,Upi,Mumbai,New,0.26,3.0,0,2431.12,5
+Ord100672,2023-08-15,Electronics,2,310.96,Net Banking,Delhi,Vip,0.22,9.0,0,485.1,8
+Ord100673,2023-09-01,Home & Kitchen,3,3926.72,Credit Card,Delhi,New,0.11,9.0,1,10484.34,9
+Ord100674,2023-12-03,Electronics,3,2051.32,Upi,Delhi,Regular,0.03,2.0,0,5969.34,12
+Ord100675,2023-12-31,Beauty,2,2275.13,Credit Card,Bangalore,Vip,0.06,3.0,1,4277.24,12
+Ord100676,2023-07-20,Toys,3,4478.61,Credit Card,Hyderabad,New,0.16,4.0,0,11286.1,7
+Ord100677,2023-06-03,Toys,3,2328.87,Credit Card,Bangalore,New,0.06,9.0,0,6567.41,6
+Ord100678,2023-03-14,Home & Kitchen,3,139.49,Credit Card,Delhi,Vip,0.16,3.0,1,351.51,3
+Ord100679,2023-07-20,Home & Kitchen,2,4721.56,Net Banking,Chennai,Regular,0.07,7.0,0,8782.1,7
+Ord100680,2023-10-23,Beauty,4,1262.01,Credit Card,Pune,Regular,0.25,5.0,0,3786.03,10
+Ord100681,2023-01-17,Toys,3,627.31,Net Banking,Mumbai,Vip,0.12,7.0,0,1656.1,1
+Ord100682,2023-05-09,Electronics,1,3863.83,Cash On Delivery,Pune,Vip,0.07,7.0,1,3593.36,5
+Ord100683,2023-08-05,Toys,2,2552.34,Net Banking,Bangalore,New,0.24,9.0,0,3879.56,8
+Ord100684,2023-03-02,Electronics,4,2225.48,Upi,Hyderabad,Vip,0.1,2.0,0,8011.73,3
+Ord100685,2023-04-14,Toys,4,1322.57,Credit Card,Mumbai,Regular,0.03,6.0,0,5131.57,4
+Ord100686,2023-02-11,Beauty,3,2782.61,Credit Card,Pune,New,0.17,9.0,0,6928.7,2
+Ord100687,2023-01-25,Beauty,4,1444.48,Credit Card,Chennai,New,0.17,2.0,0,4795.67,1
+Ord100688,2023-02-08,Beauty,3,2343.1499999999996,Credit Card,Bangalore,Regular,0.21,5.0,0,5553.27,2
+Ord100689,2023-10-18,Toys,3,1154.5,Net Banking,Chennai,New,0.07,5.0,0,3221.06,10
+Ord100690,2023-05-11,Home & Kitchen,2,4433.34,Upi,Pune,Regular,0.13,8.0,0,7714.01,5
+Ord100691,2023-08-17,Books,2,2841.09,Credit Card,Bangalore,New,0.08,9.0,1,5227.61,8
+Ord100692,2023-04-18,Books,1,4159.59,Cash On Delivery,Hyderabad,Vip,0.02,2.0,0,4076.4,4
+Ord100693,2023-06-21,Toys,2,3592.95,Cash On Delivery,Chennai,Vip,0.26,5.0,1,5317.57,6
+Ord100694,2023-04-12,Fashion,2,3513.81,Upi,Chennai,New,0.22,7.0,0,5481.54,4
+Ord100695,2023-12-20,Home & Kitchen,3,1689.29,Net Banking,Bangalore,Regular,0.09,6.0,0,4611.76,12
+Ord100696,2023-01-12,Fashion,2,1246.09,Credit Card,Delhi,New,0.18,6.0,0,2043.59,1
+Ord100697,2023-10-02,Books,3,2765.735,Net Banking,Chennai,Vip,0.06,7.0,0,7799.37,10
+Ord100698,2023-04-11,Home & Kitchen,3,4300.24,Upi,Mumbai,Regular,0.27,3.0,0,9417.53,4
+Ord100699,2023-02-13,Books,2,4120.09,Credit Card,Delhi,Regular,0.03,3.0,1,7992.97,2
+Ord100700,2023-11-01,Home & Kitchen,1,2258.81,Credit Card,Chennai,Vip,0.0,9.0,0,2258.81,11
+Ord100701,2023-01-17,Fashion,1,748.78,Upi,Pune,New,0.15,8.0,1,636.46,1
+Ord100702,2023-11-26,Electronics,4,1973.04,Cash On Delivery,Pune,Regular,0.17,5.0,0,6550.49,11
+Ord100703,2023-02-26,Beauty,4,3134.78,Credit Card,Chennai,Regular,0.17,6.0,1,10407.47,2
+Ord100704,2023-11-07,Beauty,2,2326.58,Net Banking,Hyderabad,Regular,0.02,1.0,0,4560.1,11
+Ord100705,2023-10-30,Electronics,1,3922.93,Cash On Delivery,Delhi,New,0.09,4.0,0,3569.87,10
+Ord100706,2023-01-12,Fashion,3,4988.35,Upi,Chennai,Vip,0.15,4.0,1,12720.29,1
+Ord100707,2023-11-14,Beauty,4,1036.55,Credit Card,Delhi,Regular,0.06,2.0,1,3897.43,11
+Ord100708,2023-03-21,Toys,3,2352.29,Credit Card,Pune,Vip,0.26,7.0,1,5222.08,3
+Ord100709,2023-08-04,Books,4,2765.735,Upi,Delhi,Regular,0.03,2.0,1,10731.05,8
+Ord100710,2023-12-05,Fashion,2,1592.01,Upi,Bangalore,Regular,0.15,2.0,1,2706.42,12
+Ord100711,2023-09-21,Electronics,1,1070.67,Credit Card,Chennai,New,0.21,5.0,1,845.83,9
+Ord100712,2023-05-29,Toys,4,421.89,Net Banking,Hyderabad,New,0.08,4.0,0,1552.56,5
+Ord100713,2023-03-22,Beauty,2,4446.88,Credit Card,Bangalore,Vip,0.19,8.0,0,7203.95,3
+Ord100714,2023-08-03,Toys,3,2157.26,Net Banking,Mumbai,Regular,0.25,4.0,1,4853.84,8
+Ord100715,2023-07-17,Home & Kitchen,2,2534.79,Cash On Delivery,Hyderabad,Regular,0.06,6.0,0,4765.41,7
+Ord100716,2023-07-19,Books,1,4593.02,Credit Card,Mumbai,New,0.28,5.0,1,3306.97,7
+Ord100717,2023-01-25,Beauty,2,3903.82,Credit Card,Delhi,Regular,0.17,2.0,0,6480.34,1
+Ord100718,2023-03-30,Electronics,1,739.46,Cash On Delivery,Delhi,Vip,0.09,8.0,0,672.91,3
+Ord100719,2023-09-25,Toys,3,2870.56,Cash On Delivery,Pune,Vip,0.13,2.0,0,7492.16,9
+Ord100720,2023-05-23,Books,3,2765.735,Net Banking,Delhi,Regular,0.09,9.0,0,7550.46,5
+Ord100721,2023-02-28,Electronics,2,4006.33,Upi,Delhi,Vip,0.22,9.0,0,6249.87,2
+Ord100722,2023-12-31,Fashion,3,3648.74,Credit Card,Mumbai,Vip,0.24,3.0,1,8319.13,12
+Ord100723,2023-01-26,Electronics,4,3482.99,Cash On Delivery,Mumbai,Vip,0.25,4.0,1,10448.97,1
+Ord100724,2023-02-16,Beauty,2,1768.67,Net Banking,Bangalore,Regular,0.3,8.0,1,2476.14,2
+Ord100725,2023-10-15,Home & Kitchen,3,4044.32,Net Banking,Bangalore,Regular,0.24,9.0,1,9221.05,10
+Ord100726,2023-09-23,Home & Kitchen,4,356.72,Net Banking,Pune,Vip,0.18,3.0,0,1170.04,9
+Ord100727,2023-01-16,Home & Kitchen,2,882.16,Upi,Pune,Vip,0.1,5.0,0,1587.89,1
+Ord100728,2023-07-18,Electronics,4,1744.55,Credit Card,Chennai,Regular,0.16,8.0,1,5861.69,7
+Ord100729,2023-10-09,Electronics,2,476.36,Net Banking,Mumbai,New,0.01,3.0,1,943.19,10
+Ord100730,2023-03-27,Books,2,1251.47,Net Banking,Delhi,Regular,0.22,7.0,0,1952.29,3
+Ord100731,2023-09-07,Books,1,4167.74,Cash On Delivery,Chennai,New,0.13,8.0,1,3625.93,9
+Ord100732,2023-09-27,Toys,3,2328.87,Net Banking,Mumbai,Regular,0.01,3.0,1,6916.74,9
+Ord100733,2023-12-01,Electronics,3,1592.55,Net Banking,Hyderabad,Regular,0.02,2.0,1,4682.1,12
+Ord100734,2023-04-27,Electronics,1,1396.13,Net Banking,Hyderabad,New,0.12,7.0,1,1228.59,4
+Ord100735,2023-01-07,Electronics,1,1471.47,Net Banking,Hyderabad,Vip,0.18,9.0,1,1206.61,1
+Ord100736,2023-05-17,Electronics,3,1460.82,Upi,Chennai,Vip,0.14,1.0,0,3768.92,5
+Ord100737,2023-06-25,Books,4,276.06,Cash On Delivery,Pune,Regular,0.19,3.0,0,894.43,6
+Ord100738,2023-11-24,Toys,3,4641.89,Credit Card,Hyderabad,New,0.14,5.0,1,11976.08,11
+Ord100739,2023-11-11,Toys,3,1147.12,Upi,Delhi,Vip,0.2,3.0,1,2753.09,11
+Ord100740,2023-08-03,Home & Kitchen,3,2158.02,Credit Card,Mumbai,Vip,0.07,1.0,1,6020.88,8
+Ord100741,2023-03-23,Electronics,4,147.47,Cash On Delivery,Chennai,Regular,0.03,7.0,0,572.18,3
+Ord100742,2023-08-11,Toys,3,4303.98,Upi,Mumbai,Regular,0.18,7.0,0,10587.79,8
+Ord100743,2023-04-13,Fashion,1,3682.67,Cash On Delivery,Delhi,Vip,0.15,8.0,0,3130.27,4
+Ord100744,2023-09-30,Books,2,4739.1,Upi,Delhi,Vip,0.01,5.0,1,9383.42,9
+Ord100745,2023-01-14,Electronics,4,3929.92,Net Banking,Bangalore,New,0.11,5.0,0,13990.52,1
+Ord100746,2023-06-08,Electronics,1,1637.16,Net Banking,Pune,Regular,0.03,5.0,0,1588.05,6
+Ord100747,2023-06-01,Books,1,1314.58,Credit Card,Chennai,Regular,0.16,1.0,0,1104.25,6
+Ord100748,2023-04-18,Toys,2,3518.81,Credit Card,Pune,Regular,0.12,5.0,0,6193.11,4
+Ord100749,2023-07-07,Beauty,2,1884.15,Cash On Delivery,Mumbai,New,0.18,6.0,1,3090.01,7
+Ord100750,2023-10-28,Toys,4,2874.45,Net Banking,Chennai,Vip,0.24,1.0,0,8738.33,10
+Ord100751,2023-04-08,Home & Kitchen,4,130.66,Upi,Pune,Vip,0.09,7.0,1,475.6,4
+Ord100752,2023-05-11,Toys,2,403.24,Net Banking,Delhi,Regular,0.29,1.0,1,572.6,5
+Ord100753,2023-10-20,Electronics,4,2723.3,Net Banking,Delhi,Vip,0.16,2.0,0,9150.29,10
+Ord100754,2023-06-20,Electronics,3,2873.75,Cash On Delivery,Chennai,Vip,0.19,2.0,0,6983.21,6
+Ord100755,2023-07-02,Fashion,1,2800.8050000000003,Credit Card,Delhi,New,0.2,5.0,0,2240.64,7
+Ord100756,2023-12-30,Electronics,2,746.63,Net Banking,Chennai,New,0.2,4.0,0,1194.61,12
+Ord100757,2023-02-08,Beauty,2,2614.6,Credit Card,Chennai,New,0.15,1.0,1,4444.82,2
+Ord100758,2023-01-15,Books,3,1052.79,Credit Card,Chennai,New,0.13,1.0,0,2747.78,1
+Ord100759,2023-01-04,Books,2,556.66,Net Banking,Chennai,Vip,0.02,1.0,1,1091.05,1
+Ord100760,2023-12-15,Books,2,2111.43,Net Banking,Mumbai,Regular,0.01,5.0,0,4180.63,12
+Ord100761,2023-07-29,Beauty,2,900.35,Cash On Delivery,Mumbai,New,0.11,2.0,0,1602.62,7
+Ord100762,2023-06-10,Fashion,4,1186.73,Net Banking,Hyderabad,Regular,0.1,1.0,0,4272.23,6
+Ord100763,2023-01-16,Fashion,3,2800.8050000000003,Credit Card,Hyderabad,Vip,0.12,6.0,1,7394.13,1
+Ord100764,2023-04-18,Electronics,1,1371.0,Credit Card,Mumbai,Regular,0.04,2.0,0,1316.16,4
+Ord100765,2023-11-07,Electronics,3,529.2,Cash On Delivery,Bangalore,New,0.22,6.0,1,1238.33,11
+Ord100766,2023-08-15,Toys,1,540.59,Credit Card,Delhi,New,0.26,8.0,0,400.04,8
+Ord100767,2023-06-19,Beauty,4,1046.92,Net Banking,Chennai,Vip,0.28,2.0,0,3015.13,6
+Ord100768,2023-02-03,Electronics,3,347.74,Net Banking,Mumbai,New,0.15,9.0,1,886.74,2
+Ord100769,2023-09-08,Electronics,3,3169.64,Net Banking,Mumbai,New,0.21,8.0,1,7512.05,9
+Ord100770,2023-09-04,Books,4,1507.9,Credit Card,Mumbai,Regular,0.26,1.0,1,4463.38,9
+Ord100771,2023-09-26,Toys,1,1470.76,Net Banking,Chennai,Vip,0.13,7.0,0,1279.56,9
+Ord100772,2023-05-21,Beauty,3,2343.1499999999996,Upi,Hyderabad,New,0.09,6.0,0,6396.8,5
+Ord100773,2023-10-01,Home & Kitchen,1,3347.7,Cash On Delivery,Hyderabad,Regular,0.28,6.0,0,2410.34,10
+Ord100774,2023-04-06,Beauty,3,4366.11,Cash On Delivery,Bangalore,New,0.15,6.0,0,11133.58,4
+Ord100775,2023-08-15,Electronics,2,3819.53,Upi,Hyderabad,Regular,0.15,6.0,0,6493.2,8
+Ord100776,2023-02-08,Toys,3,2328.87,Cash On Delivery,Mumbai,New,0.05,5.0,0,6637.28,2
+Ord100777,2023-10-29,Fashion,4,2473.52,Cash On Delivery,Bangalore,Vip,0.03,3.0,1,9597.26,10
+Ord100778,2023-01-29,Beauty,2,3499.65,Net Banking,Delhi,Regular,0.25,6.0,0,5249.48,1
+Ord100779,2023-11-14,Books,1,2765.735,Cash On Delivery,Pune,Regular,0.18,3.0,1,2267.9,11
+Ord100780,2023-09-02,Fashion,2,1159.63,Upi,Mumbai,Regular,0.1,7.0,0,2087.33,9
+Ord100781,2023-08-24,Beauty,1,1122.08,Net Banking,Hyderabad,Regular,0.06,5.0,0,1054.76,8
+Ord100782,2023-07-04,Beauty,1,1552.32,Upi,Mumbai,Regular,0.17,8.0,0,1288.43,7
+Ord100783,2023-09-29,Home & Kitchen,2,2733.5,Credit Card,Delhi,Regular,0.18,2.0,0,4482.94,9
+Ord100784,2023-08-24,Toys,2,2782.33,Upi,Delhi,Vip,0.06,9.0,1,5230.78,8
+Ord100785,2023-08-27,Home & Kitchen,4,3696.14,Net Banking,Chennai,New,0.26,5.0,1,10940.57,8
+Ord100786,2023-09-23,Books,1,1798.14,Net Banking,Pune,Regular,0.03,9.0,0,1744.2,9
+Ord100787,2023-12-25,Toys,4,2097.81,Credit Card,Chennai,Vip,0.11,5.0,1,7468.2,12
+Ord100788,2023-12-06,Home & Kitchen,3,715.27,Upi,Chennai,Regular,0.2,7.0,0,1716.65,12
+Ord100789,2023-03-06,Beauty,1,939.35,Upi,Delhi,Vip,0.08,9.0,0,864.2,3
+Ord100790,2023-06-26,Electronics,1,4154.05,Net Banking,Hyderabad,Vip,0.25,4.0,0,3115.54,6
+Ord100791,2023-01-03,Electronics,3,2965.71,Credit Card,Hyderabad,Regular,0.22,2.0,0,6939.76,1
+Ord100792,2023-05-22,Fashion,3,1753.91,Net Banking,Delhi,New,0.24,9.0,0,3998.91,5
+Ord100793,2023-06-07,Home & Kitchen,4,4033.97,Cash On Delivery,Pune,New,0.04,2.0,1,15490.44,6
+Ord100794,2023-11-20,Fashion,4,1307.95,Net Banking,Mumbai,Regular,0.04,3.0,0,5022.53,11
+Ord100795,2023-05-26,Toys,3,4882.56,Cash On Delivery,Hyderabad,New,0.09,2.0,1,13329.39,5
+Ord100796,2023-10-20,Home & Kitchen,4,1789.61,Cash On Delivery,Bangalore,Vip,0.16,5.0,1,6013.09,10
+Ord100797,2023-06-02,Books,2,2765.735,Credit Card,Pune,Vip,0.22,5.0,1,4314.55,6
+Ord100798,2023-07-12,Books,1,1628.37,Cash On Delivery,Delhi,New,0.25,3.0,0,1221.28,7
+Ord100799,2023-03-14,Home & Kitchen,1,698.35,Cash On Delivery,Pune,Vip,0.21,8.0,1,551.7,3
+Ord100800,2023-11-01,Books,2,644.57,Net Banking,Delhi,New,0.28,6.0,1,928.18,11
+Ord100801,2023-12-10,Fashion,1,3275.71,Cash On Delivery,Chennai,Vip,0.22,7.0,0,2555.05,12
+Ord100802,2023-05-20,Beauty,3,4388.08,Upi,Hyderabad,New,0.09,1.0,0,11979.46,5
+Ord100803,2023-07-06,Electronics,4,3973.55,Upi,Hyderabad,New,0.08,4.0,0,14622.66,7
+Ord100804,2023-10-20,Electronics,2,791.43,Cash On Delivery,Mumbai,Regular,0.21,3.0,0,1250.46,10
+Ord100805,2023-03-02,Home & Kitchen,4,2773.35,Cash On Delivery,Mumbai,New,0.06,2.0,0,10427.8,3
+Ord100806,2023-07-17,Beauty,3,617.4,Net Banking,Chennai,Regular,0.03,5.0,1,1796.63,7
+Ord100807,2023-10-22,Home & Kitchen,1,321.94,Cash On Delivery,Chennai,Regular,0.16,9.0,1,270.43,10
+Ord100808,2023-11-15,Electronics,2,3316.29,Credit Card,Delhi,Vip,0.25,4.0,0,4974.43,11
+Ord100809,2023-10-29,Fashion,3,2800.8050000000003,Cash On Delivery,Chennai,Vip,0.03,5.0,1,8150.34,10
+Ord100810,2023-12-10,Fashion,2,501.92,Cash On Delivery,Pune,New,0.24,3.0,1,762.92,12
+Ord100811,2023-01-11,Toys,2,271.2,Credit Card,Bangalore,Vip,0.24,9.0,0,412.22,1
+Ord100812,2023-03-03,Books,1,4949.81,Credit Card,Delhi,Vip,0.14,4.0,0,4256.84,3
+Ord100813,2023-11-29,Home & Kitchen,3,247.1,Net Banking,Hyderabad,Regular,0.02,5.0,1,726.47,11
+Ord100814,2023-08-14,Fashion,2,2278.19,Credit Card,Chennai,New,0.05,1.0,0,4328.56,8
+Ord100815,2023-06-02,Beauty,2,2572.63,Cash On Delivery,Bangalore,Vip,0.21,2.0,0,4064.76,6
+Ord100816,2023-07-18,Beauty,2,674.67,Net Banking,Bangalore,Vip,0.21,9.0,0,1065.98,7
+Ord100817,2023-02-21,Electronics,4,928.4,Upi,Hyderabad,New,0.27,2.0,0,2710.93,2
+Ord100818,2023-09-17,Toys,3,1823.84,Net Banking,Hyderabad,Regular,0.17,5.0,0,4541.36,9
+Ord100819,2023-02-28,Toys,2,3832.21,Net Banking,Delhi,Vip,0.04,8.0,1,7357.84,2
+Ord100820,2023-03-13,Electronics,2,2584.7,Net Banking,Bangalore,New,0.04,3.0,0,4962.62,3
+Ord100821,2023-05-28,Fashion,2,3225.72,Cash On Delivery,Chennai,New,0.22,6.0,0,5032.12,5
+Ord100822,2023-12-15,Beauty,3,4927.36,Credit Card,Hyderabad,Regular,0.06,4.0,0,13895.16,12
+Ord100823,2023-03-04,Books,3,3863.23,Net Banking,Chennai,Regular,0.1,7.0,0,10430.72,3
+Ord100824,2023-11-06,Beauty,4,2228.37,Cash On Delivery,Mumbai,Vip,0.15,3.0,0,7576.46,11
+Ord100825,2023-08-31,Electronics,3,2657.57,Cash On Delivery,Chennai,New,0.01,6.0,0,7892.98,8
+Ord100826,2023-11-26,Home & Kitchen,3,3131.98,Net Banking,Bangalore,Regular,0.07,9.0,0,8738.22,11
+Ord100827,2023-04-17,Fashion,1,3360.29,Credit Card,Hyderabad,New,0.12,1.0,0,2957.06,4
+Ord100828,2023-08-14,Home & Kitchen,4,2553.48,Net Banking,Hyderabad,New,0.08,3.0,0,9396.81,8
+Ord100829,2023-11-09,Books,2,3259.82,Cash On Delivery,Delhi,New,0.04,2.0,0,6258.85,11
+Ord100830,2023-08-06,Home & Kitchen,3,215.31,Credit Card,Pune,New,0.22,5.0,0,503.83,8
+Ord100831,2023-08-29,Fashion,2,2205.15,Cash On Delivery,Pune,New,0.24,7.0,1,3351.83,8
+Ord100832,2023-09-16,Toys,3,1466.8,Credit Card,Hyderabad,New,0.08,2.0,1,4048.37,9
+Ord100833,2023-09-19,Electronics,1,732.95,Net Banking,Chennai,Regular,0.23,6.0,0,564.37,9
+Ord100834,2023-01-05,Books,3,587.78,Upi,Hyderabad,New,0.12,3.0,0,1551.74,1
+Ord100835,2023-09-18,Fashion,4,3055.64,Net Banking,Bangalore,Vip,0.15,8.0,1,10389.18,9
+Ord100836,2023-02-23,Electronics,3,2665.64,Upi,Pune,Regular,0.26,3.0,1,5917.72,2
+Ord100837,2023-02-16,Fashion,2,1342.56,Upi,Chennai,Vip,0.22,9.0,0,2094.39,2
+Ord100838,2023-08-03,Electronics,4,2407.66,Net Banking,Bangalore,New,0.24,1.0,0,7319.29,8
+Ord100839,2023-06-26,Toys,3,2511.94,Credit Card,Mumbai,New,0.04,5.0,1,7234.39,6
+Ord100840,2023-01-09,Fashion,2,1055.54,Credit Card,Mumbai,Vip,0.02,3.0,1,2068.86,1
+Ord100841,2023-04-09,Books,2,3295.26,Upi,Chennai,Vip,0.27,6.0,0,4811.08,4
+Ord100842,2023-01-20,Fashion,1,3926.5,Credit Card,Delhi,New,0.12,2.0,1,3455.32,1
+Ord100843,2023-08-29,Books,1,3978.17,Net Banking,Chennai,Regular,0.09,9.0,0,3620.13,8
+Ord100844,2023-03-02,Electronics,1,3052.1,Cash On Delivery,Hyderabad,New,0.22,6.0,0,2380.64,3
+Ord100845,2023-06-27,Books,2,2607.03,Upi,Delhi,Regular,0.25,7.0,1,3910.54,6
+Ord100846,2023-12-04,Beauty,3,398.94,Credit Card,Delhi,Vip,0.26,5.0,0,885.65,12
+Ord100847,2023-03-03,Beauty,1,1510.37,Credit Card,Pune,New,0.09,9.0,0,1374.44,3
+Ord100848,2023-05-25,Home & Kitchen,3,557.03,Upi,Mumbai,Regular,0.26,5.0,1,1236.61,5
+Ord100849,2023-08-04,Beauty,1,4822.73,Cash On Delivery,Mumbai,Vip,0.01,5.0,1,4774.5,8
+Ord100850,2023-01-03,Toys,4,2328.87,Net Banking,Bangalore,New,0.01,6.0,0,9222.33,1
+Ord100851,2023-06-09,Electronics,4,843.7,Credit Card,Mumbai,New,0.19,4.0,0,2733.59,6
+Ord100852,2023-08-15,Electronics,1,2657.57,Credit Card,Chennai,New,0.02,4.0,0,2604.42,8
+Ord100853,2023-09-26,Toys,2,2328.87,Cash On Delivery,Chennai,Regular,0.1,1.0,1,4191.97,9
+Ord100854,2023-04-30,Beauty,1,3852.56,Upi,Delhi,Regular,0.2,8.0,1,3082.05,4
+Ord100855,2023-03-30,Books,2,126.48,Upi,Delhi,Vip,0.1,4.0,0,227.66,3
+Ord100856,2023-11-25,Fashion,2,106.6,Net Banking,Pune,Regular,0.05,3.0,0,202.54,11
+Ord100857,2023-03-09,Home & Kitchen,4,1952.69,Net Banking,Delhi,New,0.08,7.0,0,7185.9,3
+Ord100858,2023-12-23,Home & Kitchen,3,802.64,Upi,Bangalore,New,0.14,2.0,1,2070.81,12
+Ord100859,2023-04-08,Fashion,1,190.09,Upi,Chennai,New,0.14,8.0,0,163.48,4
+Ord100860,2023-09-24,Fashion,2,2800.8050000000003,Cash On Delivery,Mumbai,Vip,0.23,6.0,0,4313.24,9
+Ord100861,2023-04-15,Electronics,1,4721.0,Upi,Chennai,New,0.23,7.0,0,3635.17,4
+Ord100862,2023-11-19,Electronics,2,1686.72,Credit Card,Delhi,Regular,0.14,5.0,1,2901.16,11
+Ord100863,2023-05-03,Beauty,3,3339.59,Cash On Delivery,Bangalore,New,0.25,9.0,0,7514.08,5
+Ord100864,2023-01-29,Books,2,3295.95,Cash On Delivery,Hyderabad,Vip,0.03,5.0,1,6394.14,1
+Ord100865,2023-05-17,Electronics,4,1330.29,Credit Card,Mumbai,New,0.08,5.0,1,4895.47,5
+Ord100866,2023-07-14,Beauty,2,3287.08,Credit Card,Bangalore,Regular,0.25,3.0,0,4930.62,7
+Ord100867,2023-08-14,Toys,2,1140.44,Upi,Bangalore,New,0.11,1.0,1,2029.98,8
+Ord100868,2023-11-28,Home & Kitchen,4,697.84,Net Banking,Pune,Vip,0.29,2.0,1,1981.87,11
+Ord100869,2023-06-19,Electronics,4,3536.78,Upi,Hyderabad,Regular,0.14,8.0,1,12166.52,6
+Ord100870,2023-01-09,Toys,2,2328.87,Upi,Bangalore,New,0.24,1.0,0,3539.88,1
+Ord100871,2023-02-09,Fashion,2,4984.86,Cash On Delivery,Bangalore,New,0.12,7.0,0,8773.35,2
+Ord100872,2023-01-25,Electronics,3,998.92,Upi,Bangalore,New,0.13,5.0,1,2607.18,1
+Ord100873,2023-09-18,Home & Kitchen,1,3011.3,Net Banking,Delhi,Regular,0.11,3.0,1,2680.06,9
+Ord100874,2023-08-14,Home & Kitchen,3,2115.74,Upi,Bangalore,Regular,0.22,7.0,1,4950.83,8
+Ord100875,2023-05-04,Books,4,719.29,Credit Card,Chennai,Regular,0.16,9.0,0,2416.81,5
+Ord100876,2023-02-07,Electronics,2,236.44,Cash On Delivery,Chennai,Regular,0.28,2.0,0,340.47,2
+Ord100877,2023-11-24,Fashion,2,3151.39,Upi,Pune,Vip,0.08,8.0,0,5798.56,11
+Ord100878,2023-09-08,Fashion,3,2800.8050000000003,Credit Card,Pune,Regular,0.03,9.0,1,8150.34,9
+Ord100879,2023-06-25,Fashion,2,4225.88,Credit Card,Pune,Regular,0.12,3.0,1,7437.55,6
+Ord100880,2023-03-31,Beauty,4,2465.3,Upi,Pune,New,0.19,2.0,1,7987.57,3
+Ord100881,2023-02-06,Home & Kitchen,3,2733.5,Net Banking,Hyderabad,Regular,0.26,7.0,0,6068.37,2
+Ord100882,2023-11-12,Toys,2,3396.95,Cash On Delivery,Pune,Vip,0.1,5.0,0,6114.51,11
+Ord100883,2023-06-25,Beauty,1,3648.85,Cash On Delivery,Delhi,Vip,0.2,5.0,0,2919.08,6
+Ord100884,2023-10-11,Fashion,2,2513.74,Credit Card,Hyderabad,Regular,0.11,5.0,1,4474.46,10
+Ord100885,2023-03-22,Books,4,2765.735,Net Banking,Mumbai,New,0.19,4.0,0,8960.98,3
+Ord100886,2023-04-24,Books,2,4047.08,Credit Card,Bangalore,New,0.27,5.0,1,5908.74,4
+Ord100887,2023-02-09,Home & Kitchen,4,2049.63,Credit Card,Chennai,New,0.07,4.0,0,7624.62,2
+Ord100888,2023-10-28,Electronics,3,4049.3,Credit Card,Pune,New,0.12,6.0,0,10690.15,10
+Ord100889,2023-08-12,Home & Kitchen,1,3000.88,Credit Card,Pune,Regular,0.3,4.0,1,2100.62,8
+Ord100890,2023-11-14,Toys,3,912.92,Upi,Chennai,New,0.26,2.0,1,2026.68,11
+Ord100891,2023-12-15,Toys,2,220.95,Upi,Mumbai,Vip,0.17,9.0,0,366.78,12
+Ord100892,2023-04-25,Home & Kitchen,3,1877.49,Cash On Delivery,Mumbai,Regular,0.15,2.0,0,4787.6,4
+Ord100893,2023-07-05,Beauty,4,2778.81,Net Banking,Bangalore,Vip,0.09,9.0,0,10114.87,7
+Ord100894,2023-11-19,Books,4,4215.12,Cash On Delivery,Mumbai,Vip,0.16,6.0,1,14162.8,11
+Ord100895,2023-02-25,Toys,3,724.68,Net Banking,Bangalore,New,0.25,9.0,0,1630.53,2
+Ord100896,2023-02-09,Beauty,1,4021.01,Cash On Delivery,Chennai,Vip,0.21,9.0,0,3176.6,2
+Ord100897,2023-12-20,Books,3,4328.74,Cash On Delivery,Mumbai,Vip,0.09,3.0,0,11817.46,12
+Ord100898,2023-02-09,Home & Kitchen,3,2733.5,Cash On Delivery,Delhi,Regular,0.06,1.0,0,7708.47,2
+Ord100899,2023-12-13,Beauty,2,4272.81,Cash On Delivery,Pune,New,0.08,1.0,0,7861.97,12
+Ord100900,2023-08-25,Electronics,2,4958.12,Upi,Mumbai,New,0.05,3.0,0,9420.43,8
+Ord100901,2023-10-16,Toys,3,2328.87,Credit Card,Pune,Vip,0.03,5.0,1,6777.01,10
+Ord100902,2023-09-19,Fashion,1,3945.37,Cash On Delivery,Hyderabad,Vip,0.13,3.0,0,3432.47,9
+Ord100903,2023-08-04,Fashion,1,4972.63,Credit Card,Pune,New,0.03,9.0,0,4823.45,8
+Ord100904,2023-05-27,Books,2,3066.86,Cash On Delivery,Mumbai,Regular,0.05,9.0,0,5827.03,5
+Ord100905,2023-12-02,Beauty,2,1608.64,Upi,Bangalore,New,0.16,3.0,0,2702.52,12
+Ord100906,2023-06-17,Fashion,1,4203.9,Credit Card,Mumbai,New,0.05,3.0,0,3993.7,6
+Ord100907,2023-04-02,Toys,4,2328.87,Cash On Delivery,Pune,Regular,0.02,5.0,1,9129.17,4
+Ord100908,2023-12-19,Electronics,1,2657.57,Upi,Hyderabad,New,0.1,2.0,1,2391.81,12
+Ord100909,2023-02-28,Electronics,1,1342.81,Upi,Delhi,Regular,0.07,6.0,0,1248.81,2
+Ord100910,2023-02-28,Beauty,1,3806.04,Cash On Delivery,Chennai,New,0.15,7.0,1,3235.13,2
+Ord100911,2023-10-31,Beauty,2,500.17,Net Banking,Hyderabad,Vip,0.03,9.0,1,970.33,10
+Ord100912,2023-06-18,Toys,4,4629.01,Credit Card,Delhi,Vip,0.23,6.0,0,14257.35,6
+Ord100913,2023-09-26,Beauty,1,1696.53,Credit Card,Hyderabad,Regular,0.27,3.0,1,1238.47,9
+Ord100914,2023-12-29,Electronics,3,726.1,Cash On Delivery,Mumbai,Regular,0.22,5.0,1,1699.07,12
+Ord100915,2023-02-14,Home & Kitchen,3,2267.6,Cash On Delivery,Pune,New,0.16,4.0,0,5714.35,2
+Ord100916,2023-12-11,Toys,3,308.1,Cash On Delivery,Pune,New,0.26,5.0,1,683.98,12
+Ord100917,2023-06-30,Home & Kitchen,1,3454.67,Cash On Delivery,Mumbai,Regular,0.21,8.0,0,2729.19,6
+Ord100918,2023-06-19,Electronics,3,4523.26,Cash On Delivery,Pune,Vip,0.0,4.0,0,13569.78,6
+Ord100919,2023-12-22,Toys,4,2328.87,Credit Card,Delhi,Regular,0.12,6.0,0,8197.62,12
+Ord100920,2023-07-10,Toys,3,724.11,Net Banking,Hyderabad,New,0.26,1.0,0,1607.52,7
+Ord100921,2023-06-04,Home & Kitchen,3,718.73,Cash On Delivery,Bangalore,New,0.1,8.0,0,1940.57,6
+Ord100922,2023-07-07,Toys,4,4085.83,Net Banking,Pune,Regular,0.01,8.0,0,16179.89,7
+Ord100923,2023-01-07,Fashion,2,4628.85,Upi,Pune,Vip,0.22,2.0,0,7221.01,1
+Ord100924,2023-05-13,Toys,1,2357.28,Credit Card,Hyderabad,Vip,0.24,4.0,0,1791.53,5
+Ord100925,2023-08-23,Books,4,2544.96,Net Banking,Pune,Regular,0.05,2.0,1,9670.85,8
+Ord100926,2023-02-14,Beauty,4,1659.48,Net Banking,Chennai,Regular,0.16,4.0,0,5575.85,2
+Ord100927,2023-11-10,Books,4,4481.9,Credit Card,Bangalore,New,0.06,5.0,0,16851.94,11
+Ord100928,2023-09-06,Books,3,3260.02,Upi,Bangalore,Regular,0.22,9.0,0,7628.45,9
+Ord100929,2023-01-31,Home & Kitchen,4,1512.43,Cash On Delivery,Pune,Vip,0.08,8.0,0,5565.74,1
+Ord100930,2023-01-23,Fashion,2,1564.04,Net Banking,Hyderabad,Vip,0.09,9.0,0,2846.55,1
+Ord100931,2023-06-09,Home & Kitchen,3,4466.88,Net Banking,Chennai,New,0.25,8.0,1,10050.48,6
+Ord100932,2023-12-29,Fashion,2,2800.8050000000003,Cash On Delivery,Hyderabad,Regular,0.14,2.0,0,4817.38,12
+Ord100933,2023-06-07,Electronics,1,1681.36,Upi,Delhi,Vip,0.2,7.0,0,1345.09,6
+Ord100934,2023-02-08,Books,1,2816.35,Net Banking,Pune,New,0.12,2.0,1,2478.39,2
+Ord100935,2023-03-23,Fashion,2,2800.8050000000003,Cash On Delivery,Pune,Regular,0.09,2.0,1,5097.47,3
+Ord100936,2023-12-22,Toys,2,551.28,Cash On Delivery,Mumbai,Regular,0.19,4.0,0,893.07,12
+Ord100937,2023-09-15,Toys,3,4094.85,Credit Card,Bangalore,Vip,0.05,1.0,1,11670.32,9
+Ord100938,2023-07-25,Beauty,4,2343.1499999999996,Cash On Delivery,Bangalore,Vip,0.11,5.0,1,8341.61,7
+Ord100939,2023-03-18,Home & Kitchen,1,4135.67,Credit Card,Delhi,Vip,0.06,6.0,0,3887.53,3
+Ord100940,2023-01-12,Home & Kitchen,1,4504.06,Upi,Hyderabad,Vip,0.21,9.0,0,3558.21,1
+Ord100941,2023-10-22,Books,2,2810.25,Cash On Delivery,Hyderabad,Vip,0.28,8.0,0,4046.76,10
+Ord100942,2023-08-12,Toys,2,4080.06,Net Banking,Hyderabad,New,0.3,2.0,1,5712.08,8
+Ord100943,2023-01-13,Fashion,4,1981.81,Credit Card,Bangalore,New,0.14,1.0,0,6817.43,1
+Ord100944,2023-02-15,Books,3,3364.71,Net Banking,Mumbai,Regular,0.08,2.0,1,9286.6,2
+Ord100945,2023-06-04,Toys,4,4945.29,Credit Card,Mumbai,Regular,0.13,7.0,1,17209.61,6
+Ord100946,2023-04-23,Home & Kitchen,1,2733.5,Upi,Pune,New,0.25,4.0,0,2050.12,4
+Ord100947,2023-08-21,Toys,3,2328.87,Credit Card,Delhi,Vip,0.06,5.0,0,6567.41,8
+Ord100948,2023-01-17,Home & Kitchen,2,2452.23,Credit Card,Mumbai,Vip,0.29,7.0,0,3482.17,1
+Ord100949,2023-12-26,Electronics,2,776.28,Credit Card,Hyderabad,Regular,0.1,3.0,0,1397.3,12
+Ord100950,2023-08-11,Fashion,1,497.09,Credit Card,Bangalore,New,0.3,2.0,0,347.96,8
+Ord100951,2023-12-20,Home & Kitchen,2,4165.64,Net Banking,Chennai,New,0.25,7.0,1,6248.46,12
+Ord100952,2023-07-07,Home & Kitchen,3,4886.29,Upi,Pune,Vip,0.24,5.0,1,11140.74,7
+Ord100953,2023-12-10,Books,3,2083.15,Net Banking,Delhi,New,0.1,1.0,0,5624.51,12
+Ord100954,2023-12-31,Books,4,529.48,Net Banking,Pune,Regular,0.0,1.0,0,2117.92,12
+Ord100955,2023-06-12,Electronics,1,422.48,Upi,Chennai,Vip,0.11,9.0,0,376.01,6
+Ord100956,2023-11-22,Books,1,4467.46,Net Banking,Hyderabad,Regular,0.09,5.0,0,4065.39,11
+Ord100957,2023-03-15,Fashion,1,2372.69,Cash On Delivery,Delhi,Regular,0.01,1.0,0,2348.96,3
+Ord100958,2023-08-21,Toys,1,1668.13,Cash On Delivery,Bangalore,Regular,0.15,7.0,1,1417.91,8
+Ord100959,2023-08-12,Books,1,2434.66,Upi,Mumbai,Regular,0.12,9.0,0,2142.5,8
+Ord100960,2023-11-15,Fashion,2,1659.69,Upi,Hyderabad,Vip,0.19,1.0,0,2688.7,11
+Ord100961,2023-03-01,Electronics,3,2496.28,Upi,Hyderabad,Vip,0.19,4.0,0,6065.96,3
+Ord100962,2023-12-01,Beauty,1,4311.83,Net Banking,Delhi,Regular,0.04,3.0,0,4139.36,12
+Ord100963,2023-08-10,Home & Kitchen,3,3002.28,Cash On Delivery,Chennai,Regular,0.29,5.0,0,6394.86,8
+Ord100964,2023-02-06,Electronics,3,2657.57,Upi,Chennai,New,0.06,7.0,1,7494.35,2
+Ord100965,2023-10-05,Home & Kitchen,3,1886.89,Credit Card,Mumbai,Vip,0.13,5.0,0,4924.78,10
+Ord100966,2023-07-15,Home & Kitchen,1,3718.68,Credit Card,Delhi,Regular,0.15,2.0,0,3160.88,7
+Ord100967,2023-12-18,Electronics,2,3366.42,Net Banking,Bangalore,Regular,0.24,7.0,0,5116.96,12
+Ord100968,2023-08-30,Home & Kitchen,1,685.85,Cash On Delivery,Pune,Regular,0.03,1.0,0,665.27,8
+Ord100969,2023-11-20,Books,2,2905.95,Cash On Delivery,Pune,Regular,0.13,7.0,1,5056.35,11
+Ord100970,2023-08-07,Fashion,3,1358.04,Credit Card,Chennai,New,0.19,8.0,0,3300.04,8
+Ord100971,2023-07-11,Fashion,1,4040.07,Net Banking,Pune,Regular,0.06,2.0,1,3797.67,7
+Ord100972,2023-01-17,Electronics,4,2187.09,Cash On Delivery,Bangalore,Regular,0.19,9.0,0,7086.17,1
+Ord100973,2023-01-12,Toys,3,4973.95,Cash On Delivery,Bangalore,Vip,0.28,1.0,1,10743.73,1
+Ord100974,2023-07-12,Electronics,4,2657.57,Credit Card,Hyderabad,Regular,0.3,6.0,0,7441.2,7
+Ord100975,2023-01-22,Electronics,3,3923.7,Cash On Delivery,Pune,Regular,0.01,1.0,1,11653.39,1
+Ord100976,2023-04-30,Toys,2,3401.14,Credit Card,Chennai,Regular,0.07,3.0,1,6326.12,4
+Ord100977,2023-07-29,Beauty,1,3860.74,Upi,Mumbai,New,0.09,6.0,0,3513.27,7
+Ord100978,2023-11-02,Books,3,1606.9,Upi,Chennai,Vip,0.12,5.0,0,4242.22,11
+Ord100979,2023-09-27,Home & Kitchen,2,2511.07,Upi,Mumbai,New,0.07,8.0,0,4670.59,9
+Ord100980,2023-07-11,Books,1,4002.89,Cash On Delivery,Pune,Regular,0.06,5.0,1,3762.72,7
+Ord100981,2023-06-24,Beauty,1,1239.45,Credit Card,Pune,New,0.29,2.0,0,880.01,6
+Ord100982,2023-10-12,Home & Kitchen,3,1207.56,Cash On Delivery,Mumbai,New,0.28,4.0,0,2608.33,10
+Ord100983,2023-07-23,Beauty,2,2800.15,Net Banking,Mumbai,New,0.01,9.0,0,5544.3,7
+Ord100984,2023-06-13,Toys,3,2665.46,Net Banking,Pune,Regular,0.1,4.0,0,7196.74,6
+Ord100985,2023-09-08,Books,1,1483.09,Upi,Mumbai,Regular,0.12,8.0,1,1305.12,9
+Ord100986,2023-08-15,Books,4,1560.57,Cash On Delivery,Chennai,Regular,0.07,5.0,1,5805.32,8
+Ord100987,2023-01-07,Toys,2,1461.44,Cash On Delivery,Bangalore,New,0.19,1.0,0,2367.53,1
+Ord100988,2023-01-29,Home & Kitchen,4,3880.41,Cash On Delivery,Delhi,New,0.19,7.0,0,12572.53,1
+Ord100989,2023-02-02,Home & Kitchen,3,3294.31,Net Banking,Chennai,Regular,0.26,3.0,0,7313.37,2
+Ord100990,2023-05-14,Electronics,3,4178.84,Credit Card,Delhi,Regular,0.22,8.0,1,9778.49,5
+Ord100991,2023-03-20,Electronics,3,2657.57,Upi,Delhi,Regular,0.16,3.0,0,6697.08,3
+Ord100992,2023-02-27,Home & Kitchen,1,2423.41,Credit Card,Bangalore,Vip,0.2,1.0,0,1938.73,2
+Ord100993,2023-01-26,Beauty,1,426.8,Credit Card,Chennai,Regular,0.08,5.0,0,392.66,1
+Ord100994,2023-08-14,Books,3,335.65,Net Banking,Delhi,Vip,0.18,2.0,0,825.7,8
+Ord100995,2023-10-12,Beauty,4,1548.76,Upi,Chennai,New,0.15,4.0,0,5265.78,10
+Ord100996,2023-01-04,Home & Kitchen,1,4669.47,Credit Card,Mumbai,New,0.04,1.0,0,4482.69,1
+Ord100997,2023-04-09,Books,2,2663.74,Credit Card,Mumbai,New,0.07,9.0,1,4954.56,4
+Ord100998,2023-02-08,Fashion,1,1431.75,Upi,Bangalore,Regular,0.09,6.0,1,1302.89,2
+Ord100999,2023-09-28,Books,2,2055.92,Credit Card,Mumbai,Regular,0.28,8.0,1,2960.52,9

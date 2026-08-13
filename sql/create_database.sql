@@ -1,0 +1,3 @@
+CREATE DATABASE ecommerce_return_analysis;
+
+USE ecommerce_return_analysis;
