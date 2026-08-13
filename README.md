@@ -236,28 +236,11 @@ scenario.
 
 ---
 
-## Return Risk Scoring
-
-The selected model generates a probability of return for each order.
-
-The probability is converted into three business-oriented categories:
-
-| Probability | Risk |
-|---|---|
-| < 30% | Low Risk |
-| 30–60% | Medium Risk |
-| > 60% | High Risk |
-
-These categories are intended to support prioritization and intervention,
-not automatic order cancellation.
-
----
-
 ## Power BI Dashboard
 
 The Power BI dashboard contains two main pages.
 
-### Page 1 — Executive Return Analysis
+### Page 1 — Executive Dashboard
 
 Provides:
 
@@ -269,18 +252,6 @@ Provides:
 - Return rate by category
 - Return rate by location
 - Return rate by customer segment
-
-### Page 2 — Return Risk & Predictions
-
-Provides:
-
-- Number of predicted orders
-- High-risk order count
-- Average return probability
-- Risk distribution
-- Predicted risk by category
-- Predicted risk by location
-- High-risk order table
 
 ---
 
